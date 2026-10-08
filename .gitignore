@@ -4,3 +4,7 @@ BPM_PM/jupyter/.DS_Store
 BPM_PM/jupyter/jupyterNotebooks/.DS_Store
 BPM_PM/jupyter/jupyterNotebooks/.ipynb_checkpoints/PM_01IntroToProcessMining-checkpoint.ipynb
 BPM_PM/slides/processMining/~$ProcessMiningTutorial.pptx
+BPM_PM/jupyter/jupyterNotebooks/covid_lastday.csv
+BPM_PM/jupyter/jupyterNotebooks/covid_lastday_b.csv
+BPM_PM/jupyter/jupyterNotebooks/covid_more_than_10k.csv
+BPM_PM/jupyter/jupyterNotebooks/covid_more_than_25k.csv
