@@ -1,0 +1,1211 @@
+"City.Zone","Building.Type","Energy.Class","Heating.System","Living.Area.sqm","Living.Area.sqft","Neighborhood.Score","Distance.Center.km","Building.Age.yr","Garage.Area.sqm","Annual.Maintenance.EUR","Market.Price.kEUR"
+"West","Apartment","C","Autonomous",177.6,1911.7,61.8,10.41,27.1,32.4,1543,588.6
+"West","Apartment","C","Centralized",116.2,1250.8,47.2,11.17,26.2,23,1901,427.7
+"Center","Penthouse","B","Heat Pump",137.6,1481.1,47.6,9.3,21.6,22.9,1422,467.6
+"West","Apartment","B","Autonomous",117.6,1265.8,53,9.8,27.8,18.7,1487,418.5
+"North","Apartment","C","Centralized",NA,NA,58,9.2,31,20.5,1420,285
+"South","Villa","B","Heat Pump",131.2,1412.2,57,8.82,29,32.2,1733,482.1
+"South","Penthouse","E","Autonomous",120,1291.7,72.4,8.25,33.2,23.1,1530,473.9
+"East","Villa","B","Heat Pump",104.1,1120.5,81.5,5.32,6.6,23.5,1649,430.8
+"North","Townhouse","C","Centralized",135.8,1461.7,61.3,7.12,15.6,19.2,1513,503.7
+"East","Apartment","E","Autonomous",104.8,1128.1,61.8,8.23,11.9,23.7,1298,421.8
+"East","Townhouse","D","Autonomous",142.8,1537.1,28.9,11.16,25.8,20.9,1429,374.2
+"South","Penthouse","C","Autonomous",102.8,1106.5,78.6,4.21,30.4,25.4,1301,510
+"East","Penthouse","B","Autonomous",107.1,1152.8,80.1,0.6,30.6,25.2,1480,518.9
+"West","Apartment","C","Centralized",135,1453.1,58.9,9.54,36.5,38,1598,488.4
+"Center","Apartment","D","Centralized",138.8,1494,55.5,6.31,30.8,21.2,1437,466.2
+"South","Villa","E","Centralized",120.6,1298.1,65,4.64,27.2,32.9,1539,458.3
+"West","Townhouse","D","Autonomous",88.8,955.8,62.7,8.7,17.9,19.7,1527,428.6
+"West","Apartment","B","Centralized",145.2,1562.9,94.6,3.96,12.4,24.5,1684,645.2
+"North","Townhouse","D","Centralized",137.2,1476.8,58,9.58,36,36,1777,502
+"South","Apartment","C","Centralized",110.8,1192.6,38.3,12.22,26.8,27.7,1509,399.2
+"South","Villa","A","Autonomous",137,1474.7,81,5.05,24.9,31.6,1811,558.8
+"West","Apartment","C","Autonomous",187.9,2022.5,71.1,9.16,17,40.7,1364,663.9
+"North","Villa","B","Heat Pump",128,1377.8,61,11.07,22.9,28,1502,473.9
+"West","Townhouse","D","Centralized",154.3,1660.9,47.3,10.21,20.7,26.4,1618,488
+"West","Apartment","E","Autonomous",176.3,1897.7,71.7,4.73,17.5,37.5,1772,663.7
+"North","Penthouse","B","Autonomous",164.1,1766.4,84.1,6.86,21,40.6,1432,632.8
+"South","Villa","A","Autonomous",106.9,1150.7,66,11.26,28.3,14.5,1821,416.7
+"Center","Apartment","E","Heat Pump",116.9,1258.3,83,5.43,23.8,26.4,1721,505.9
+"West","Apartment","A","Heat Pump",127.3,1370.2,42.3,10.56,30.3,26.7,1534,390.4
+"Center","Townhouse","C","Centralized",169.4,1823.4,55.4,6.13,21.6,33.7,1982,579.8
+"West","Townhouse","B","Autonomous",141.8,1526.3,56.5,9.81,35.4,26.6,1613,523
+"East","Villa","B","Centralized",157.4,1694.2,66.8,7.88,22.1,28.4,1891,585.6
+"East","Apartment","A","Heat Pump",136,1463.9,54.9,4.12,25.1,25.7,1818,525.9
+"Center","Apartment","A","Autonomous",119,1280.9,62.4,10.67,39.3,24.1,1747,435
+"East","Townhouse","C","Autonomous",79.4,854.7,35,13.65,29.3,13.8,1250,301.9
+"North","Villa","A","Heat Pump",55.3,595.2,64.6,11.05,22.5,16.1,1221,323.3
+"West","Townhouse","C","Autonomous",182.6,1965.5,84.9,4.5,25.5,40.5,2276,700.4
+"North","Townhouse","A","Heat Pump",128,1377.8,41.6,12.85,54.4,26,1217,418.6
+"North","Townhouse","E","Autonomous",145.6,1567.2,46.9,10.4,27.5,26.8,1824,433.2
+"West","Townhouse","A","Centralized",145.5,1566.1,62.2,5.73,32.5,25.2,1884,523.7
+"South","Apartment","D","Autonomous",172.5,1856.8,46.4,13.42,19.6,31.3,1336,525.7
+"Center","Townhouse","A","Autonomous",141.5,1523.1,53.9,8.99,24,27.7,1597,540.5
+"Center","Apartment","A","Heat Pump",108.5,1167.9,36.9,11.96,38.7,14.6,1937,354.6
+"North","Villa","C","Autonomous",145.4,1565.1,61.5,11.44,17.4,19.6,1701,511.2
+"West","Penthouse","A","Autonomous",134.1,1443.4,69.3,7.35,15.5,26,1518,537.7
+"Center","Apartment","D","Autonomous",82.4,886.9,89.8,4.73,36.6,20.4,1257,386.6
+"West","Villa","A","Heat Pump",162.9,1753.4,65.3,5.92,8.1,28.8,1617,573
+"West","Townhouse","D","Autonomous",118.9,1279.8,50.1,13.94,35.8,21.9,1744,434.6
+"South","Villa","B","Centralized",130.1,1400.4,47.8,12.6,38.7,14.5,1615,406.9
+"West","Apartment","C","Centralized",99.8,1074.2,41.3,11.03,43.6,17.4,1542,368.3
+"South","Villa","A","Autonomous",149.7,1611.4,50.9,12.73,26.6,28.5,1656,494.3
+"Center","Penthouse","A","Heat Pump",115.7,1245.4,54.4,11.17,31.8,20.5,1370,407.8
+"Center","Penthouse","C","Autonomous",134.8,1451,77.2,1,24.9,22.7,1300,588.6
+"Center","Apartment","D","Autonomous",126,1356.3,65.2,8.71,27.4,31.9,1656,492
+"East","Apartment","D","Heat Pump",120.4,1296,35.7,13.98,32.3,20.8,1820,355.1
+"North","Villa","B","Autonomous",142.1,1529.6,76.6,4.71,17.2,25.9,1593,547.5
+"East","Apartment","C","Autonomous",148.9,1602.7,85.3,5.11,21.6,31.9,1947,637.8
+"East","Townhouse","A","Heat Pump",125.2,1347.6,62,11.77,33.3,28.4,1643,477
+"North","Apartment","B","Autonomous",82.5,888,83.2,5.91,27.5,20.4,1188,438.7
+"Center","Apartment","B","Autonomous",43.5,468.2,63.7,10.2,31.4,5,1296,268.6
+"South","Penthouse","B","Heat Pump",98.3,1058.1,58,8.71,24.7,27.8,1151,447.4
+"East","Townhouse","B","Heat Pump",100.1,1077.5,63.6,8,16,23,1319,436.2
+"West","Townhouse","A","Autonomous",116.7,1256.1,85.7,6.09,29,26.8,1816,522.1
+"East","Townhouse","C","Centralized",89.6,964.4,54.2,10.17,32,15.7,1467,389.9
+"South","Apartment","D","Centralized",89.4,962.3,62.5,10.68,32.6,18.9,1479,367.2
+"West","Apartment","B","Autonomous",63.1,679.2,52.4,5.83,31.5,17.2,1182,336.8
+"North","Townhouse","C","Autonomous",208.6,2245.3,65.2,7.86,20.7,40.7,2057,709.3
+"Center","Townhouse","E","Centralized",128.5,1383.2,67.8,5.33,31.1,27.2,1072,542.8
+"East","Townhouse","B","Heat Pump",139.9,1505.9,74,8.25,31.1,28.4,1372,566.8
+"East","Villa","B","Autonomous",60.2,648,55.6,10.76,11.2,19.6,1044,301.3
+"Center","Apartment","E","Centralized",112.3,1208.8,42,12.04,33.3,18.9,1516,370.9
+"North","Apartment","A","Heat Pump",161.7,1740.5,46.8,10.14,35.7,26.9,1867,495.4
+"North","Villa","C","Centralized",153.8,1655.5,37.3,12.07,25.3,26.9,1326,455.5
+"North","Apartment","D","Centralized",147.2,1584.4,80.2,4.42,26.5,23.7,1509,581.2
+"South","Townhouse","D","Centralized",155.8,1677,64.3,8.36,38,36,1602,578.6
+"North","Villa","B","Heat Pump",81.3,875.1,49.3,9.94,44,14.3,1253,345.8
+"East","Townhouse","B","Autonomous",91.8,988.1,54.4,7.14,16,13.7,1367,391.4
+"North","Apartment","B","Heat Pump",129.3,1391.8,50.1,15.23,4.3,25,1278,414
+"Center","Penthouse","A","Centralized",129.7,1396.1,39.7,13.88,33.8,22.4,1262,404.7
+"South","Apartment","C","Autonomous",107.2,1153.9,67.3,6.91,30.1,20.3,1458,435.1
+"North","Apartment","E","Heat Pump",182.1,1960.1,68.1,7.4,25.1,28.9,1995,592.5
+"South","Villa","C","Heat Pump",50.3,541.4,38.2,13.77,39.3,22,1049,272.1
+"North","Apartment","E","Autonomous",108.9,1172.2,54.1,12.21,18.5,24.3,1778,401
+"Center","Apartment","C","Centralized",169.7,1826.6,50.6,16.16,20.5,30.3,1764,553.6
+"South","Apartment","D","Heat Pump",144.4,1554.3,91.1,1.79,23.6,33.4,1439,619.6
+"East","Apartment","D","Autonomous",86.4,930,51.2,10.82,23.8,17.1,1130,367.1
+"South","Villa","A","Heat Pump",145.6,1567.2,60.2,8.25,33.2,32.8,1674,552.1
+"Center","Penthouse","A","Autonomous",145.1,1561.8,65.1,9.04,28,25,1611,535.9
+"North","Townhouse","A","Autonomous",75.5,812.7,54.9,10.92,48.4,25,1522,328.1
+"North","Apartment","C","Autonomous",125.1,1346.6,94.5,4.13,18.9,33,1703,544.7
+"Center","Apartment","C","Centralized",164.5,1770.7,72.8,7.79,24.1,32.7,1602,618.7
+"East","Apartment","E","Centralized",102.6,1104.4,36.4,10.86,37.3,16.3,1714,342.2
+"North","Apartment","B","Heat Pump",138.9,1495.1,68.7,7.48,10.9,32.8,1826,529.3
+"North","Apartment","E","Heat Pump",93,1001,74.4,6.91,33.8,22.6,1270,428.4
+"West","Townhouse","E","Autonomous",141.4,1522,43.1,11,34.3,29.5,1469,451.9
+"West","Villa","D","Autonomous",96.3,1036.6,71.1,10.54,39.3,18.3,1650,431.4
+"East","Apartment","C","Autonomous",108.9,1172.2,65.5,9.99,41,24.7,1589,417.5
+"Center","Apartment","D","Autonomous",96.4,1037.6,58.8,7.86,30.6,18.4,1545,407.4
+"South","Apartment","C","Heat Pump",144.7,1557.5,78.2,2.97,24.9,30.1,1670,609.3
+"East","Townhouse","C","Autonomous",133.4,1435.9,41.4,15.59,26.2,23,1940,421.8
+"South","Apartment","E","Heat Pump",123.1,1325,84.2,4.24,32,23.7,1608,528.4
+"South","Villa","A","Heat Pump",150.1,1615.7,53,13.23,27.2,28.9,1715,479.5
+"North","Penthouse","D","Centralized",119.3,1284.1,45.8,10.31,19.9,18,1312,411.4
+"North","Townhouse","C","Centralized",116.8,1257.2,56.8,9.27,37.7,24.8,1422,422.9
+"Center","Apartment","D","Centralized",136.5,1469.3,64,8.94,33.8,34.4,1640,558.8
+"West","Apartment","A","Autonomous",156.6,1685.6,60.4,11.27,35.5,32.4,1517,520.6
+"West","Villa","B","Heat Pump",110.2,1186.2,23.5,12.61,43,23.6,1867,337.7
+"East","Townhouse","C","Centralized",128.5,1383.2,55.6,8.85,30.8,22.7,1736,465.2
+"East","Villa","B","Heat Pump",146.8,1580.1,71.2,7.45,29.8,28.1,1923,509.9
+"South","Penthouse","A","Centralized",147.1,1583.4,60.5,10.28,27,28.6,1209,522.4
+"North","Townhouse","D","Centralized",166.2,1789,73.3,7.83,35.8,29.7,1426,624.8
+"South","Apartment","D","Heat Pump",88,947.2,66.6,5.73,31.5,15.8,755,451.2
+"West","Townhouse","D","Centralized",137.6,1481.1,49.8,13.05,38.8,21.4,1744,411.7
+"East","Apartment","A","Heat Pump",129,1388.5,86.1,3.75,14.5,30.3,1964,588.7
+"South","Apartment","D","Centralized",103.8,1117.3,51.9,8.97,17.8,19.3,903,407.9
+"South","Townhouse","B","Centralized",93.4,1005.3,70.2,7.58,31.7,17.7,1477,447.7
+"South","Apartment","D","Autonomous",148.1,1594.1,94,2.79,12.2,26.8,1907,636.4
+"North","Apartment","D","Centralized",106.9,1150.7,65.4,9.85,4.7,21.5,1762,472.8
+"Center","Apartment","B","Centralized",107.9,1161.4,60.9,13.28,30,24.5,1807,361.9
+"South","Villa","C","Autonomous",144.5,1555.4,39.2,12.57,35.2,27.1,1683,422.8
+"East","Townhouse","B","Centralized",164.9,1775,50.4,11.52,36.2,29.3,1516,536.6
+"Center","Apartment","A","Centralized",171.2,1842.8,49.2,10.53,14.8,31.9,2051,558.1
+"Center","Apartment","C","Centralized",161.5,1738.4,52.9,8.33,23.1,34.3,1616,531.9
+"South","Villa","A","Autonomous",164.8,1773.9,98,3.34,30.2,39.2,1567,697.7
+"South","Penthouse","A","Heat Pump",173.3,1865.4,52.3,10.66,29.7,29.2,1764,541.5
+"East","Townhouse","E","Heat Pump",135.7,1460.7,47.9,10.65,26.4,24.9,1551,487.8
+"Center","Penthouse","B","Autonomous",144.4,1554.3,73.8,6.23,35.5,29.6,1484,532.4
+"West","Villa","A","Heat Pump",188.6,2030.1,64.3,6.18,23,27.7,2231,632
+"West","Villa","B","Centralized",109.4,1177.6,55.3,10.38,21.6,14,880,405.1
+"Center","Villa","A","Heat Pump",126.9,1365.9,86.4,6.86,13,22.9,1638,575.6
+"East","Apartment","D","Centralized",139.3,1499.4,85.9,8.24,23.5,31.1,2303,576.7
+"West","Townhouse","B","Heat Pump",43.8,471.5,71.7,7.95,35.1,12.6,1312,294.5
+"South","Apartment","C","Autonomous",113.4,1220.6,50.6,11.75,33.1,25.8,1855,401.4
+"South","Villa","B","Autonomous",149.5,1609.2,58.5,13.4,31.2,24.7,1567,463.2
+"West","Penthouse","B","Heat Pump",47.2,508.1,38.6,9.81,25.2,15,1123,273.8
+"West","Townhouse","C","Autonomous",121.1,1303.5,44.9,10.47,32.5,31.1,1597,414.2
+"South","Villa","B","Heat Pump",110.4,1188.3,49.6,10.92,37.7,23.5,1354,372.1
+"East","Apartment","D","Centralized",139.6,1502.6,57.9,11.71,9.7,22.2,2248,483.6
+"North","Apartment","A","Autonomous",137.8,1483.3,59.7,9.87,41.3,27.7,1312,481
+"East","Townhouse","D","Centralized",160,1722.2,76.2,6.32,28,26.7,1547,600.6
+"South","Townhouse","B","Heat Pump",91.4,983.8,65.8,6.98,29.6,10.1,1139,402.3
+"North","Villa","B","Autonomous",115.5,1243.2,46.7,10.14,25.9,20.7,1596,419.5
+"North","Apartment","C","Centralized",108.2,1164.7,85.1,4.62,16.7,27.7,1896,499
+"South","Villa","B","Autonomous",134.3,1445.6,60.6,8.92,18.8,29.8,1763,519
+"East","Townhouse","A","Centralized",123.2,1326.1,67.7,6.86,20.6,26.3,1390,539.8
+"East","Apartment","C","Autonomous",87.9,946.1,35.4,13.97,35.1,20.1,1116,307.3
+"East","Villa","A","Autonomous",77.5,834.2,57.7,6.34,23.8,12,1092,364.4
+"North","Apartment","C","Autonomous",183.8,1978.4,51.2,7.82,19.3,34.9,1982,609.3
+"West","Apartment","A","Heat Pump",101.1,1088.2,48.4,10.92,20.4,11.2,1495,398.3
+"Center","Penthouse","A","Heat Pump",127.4,1371.3,42.3,9.9,22.6,24.2,1512,447.2
+"North","Townhouse","D","Autonomous",80.1,862.2,55.6,9.32,36.5,28.9,707,340.5
+"East","Apartment","B","Autonomous",136.9,1473.6,67.3,10.7,4.1,35.5,1395,519.7
+"Center","Penthouse","C","Autonomous",74.7,804.1,63.6,9.21,31,15.7,1155,338.8
+"East","Apartment","D","Autonomous",88.2,949.4,48.5,9.02,24.7,26.4,1441,330.4
+"Center","Apartment","C","Centralized",89,958,40.1,5.71,30.7,26,1632,329.4
+"East","Townhouse","E","Autonomous",110.9,1193.7,66.5,7.99,32,26.4,1585,478.2
+"East","Apartment","B","Heat Pump",120,1291.7,67.3,3.66,20.8,27.7,1732,532.7
+"North","Apartment","B","Autonomous",194.3,2091.4,43.1,13.65,25.6,32.3,2161,537.9
+"North","Townhouse","C","Centralized",136,1463.9,52.3,10.79,24.5,14.7,1733,414.4
+"North","Townhouse","D","Centralized",170.1,1830.9,70.8,2.91,14.7,32.9,1946,662.3
+"East","Apartment","E","Centralized",159,1711.5,85.4,8.17,23.6,28.9,1601,600.6
+"West","Townhouse","C","Centralized",151.1,1626.4,72.1,5.47,21.9,34.3,1559,585.8
+"South","Villa","A","Heat Pump",142.6,1534.9,65.6,10.74,22.2,32.1,1775,542.5
+"South","Apartment","C","Centralized",148.4,1597.4,65.7,6.04,21.8,29.5,1282,549.2
+"North","Townhouse","C","Centralized",99.3,1068.9,54,6.1,27,23.7,1727,446.2
+"South","Villa","B","Autonomous",101.7,1094.7,72.4,6.12,36.5,25.7,1675,434
+"North","Townhouse","A","Centralized",159.3,1714.7,68,7.68,11.3,28.8,1685,552.6
+"South","Apartment","B","Autonomous",47.9,515.6,72.9,5.54,28.1,12.8,1040,329.7
+"Center","Apartment","B","Heat Pump",78.9,849.3,62.2,9,22.8,13.2,1431,343.8
+"North","Villa","A","Heat Pump",109.3,1176.5,53.1,11.81,29.3,21.4,1397,418.7
+"North","Apartment","D","Centralized",71.6,770.7,66.8,4.93,28.9,15,1324,365.6
+"East","Apartment","D","Heat Pump",133.7,1439.1,46,8.07,36.4,22.9,1408,460
+"Center","Penthouse","A","Heat Pump",120.3,1294.9,55.8,8.73,23.4,28.8,1465,413.3
+"Center","Apartment","A","Heat Pump",154.8,1666.3,26.5,11.88,25.6,29,1807,442.2
+"South","Townhouse","D","Autonomous",149,1603.8,66.3,7.67,31.7,42.4,1835,542.3
+"Center","Apartment","C","Centralized",161,1733,76.4,7.89,10.3,31.2,1807,581.2
+"North","Apartment","D","Autonomous",148.2,1595.2,31.7,11.78,49.7,27.6,1587,434
+"East","Apartment","A","Autonomous",144.4,1554.3,98,1.27,4.1,31.1,1534,663.2
+"South","Apartment","C","Autonomous",123.2,1326.1,49.8,7.42,37.3,18.4,1900,448.4
+"East","Apartment","D","Centralized",101.6,1093.6,34.7,12.46,46.4,18.4,1384,334.2
+"East","Penthouse","A","Heat Pump",195.2,2101.1,58.9,8.29,5.9,33.8,2062,630.5
+"West","Apartment","A","Heat Pump",105,1130.2,68.8,9.67,12.9,16.2,1238,448.1
+"West","Villa","C","Centralized",166.3,1790,66.4,9.9,34.8,26.9,1395,556.5
+"Center","Apartment","C","Autonomous",150.9,1624.3,71,10.21,16.2,34.4,1910,599.5
+"Center","Apartment","B","Heat Pump",173.8,1870.8,51.5,6.78,26.6,37.6,1805,581.1
+"East","Townhouse","C","Heat Pump",161.6,1739.4,61,8.46,58.4,29.8,1790,561.1
+"East","Apartment","B","Autonomous",110.1,1185.1,49.7,8,25.3,14.9,1675,393.3
+"West","Apartment","B","Heat Pump",122.8,1321.8,89.3,2.29,21.3,23.9,1396,516
+"East","Townhouse","D","Autonomous",82.7,890.2,63.5,7.39,15.5,19.7,1079,390.9
+"North","Apartment","D","Autonomous",163.8,1763.1,67.5,8.43,27.9,31.6,1797,587.7
+"Center","Apartment","A","Heat Pump",130,1399.3,71.3,7.28,11.5,21,1426,532.8
+"North","Apartment","E","Autonomous",133.7,1439.1,74.4,8.35,30.8,30.3,1402,538.9
+"East","Villa","C","Centralized",136.4,1468.2,46.3,7.74,14.3,16.8,1641,459.6
+"North","Apartment","D","Autonomous",110.8,1192.6,50.1,11.74,20.9,20.8,1413,396.1
+"North","Townhouse","B","Autonomous",108.3,1165.7,67.8,7.54,16.8,22,1731,444.4
+"North","Apartment","E","Autonomous",143.9,1548.9,67.9,12.41,30.1,25.7,1486,525.1
+"North","Townhouse","C","Autonomous",169.9,1828.8,51.2,13.87,40,23.5,1729,494.6
+"South","Townhouse","A","Heat Pump",118.8,1278.8,47,8.53,38.5,27.2,2067,433.2
+"North","Apartment","C","Autonomous",144,1550,67.1,6.32,12.2,24.1,1240,563
+"East","Townhouse","D","Centralized",138.3,1488.6,71.4,5.57,18.4,24.1,1241,521.1
+"East","Apartment","E","Autonomous",135.6,1459.6,63.2,9.13,19.5,19.8,1430,500.8
+"West","Townhouse","B","Heat Pump",118.5,1275.5,54.1,10.64,14.6,29.8,1435,466.1
+"South","Apartment","C","Autonomous",151.9,1635,55.9,11.5,26.1,30.1,1763,471.8
+"West","Townhouse","B","Centralized",149.3,1607.1,48,10.22,33.5,29.4,1286,463.2
+"Center","Apartment","C","Centralized",129.8,1397.2,49.5,13.9,30.8,25.9,1831,468.8
+"North","Apartment","E","Centralized",138.3,1488.6,64.7,6.14,36.3,27.1,1801,553.1
+"Center","Apartment","D","Autonomous",106.7,1148.5,48.5,10.7,29.3,20,1468,405.8
+"West","Apartment","B","Centralized",139.7,1503.7,58.4,8.22,21.4,30.7,1487,505
+"South","Villa","A","Centralized",145.8,1569.4,53.4,7.76,27,24.4,1497,529.5
+"Center","Apartment","D","Autonomous",116.9,1258.3,60.4,8.15,21.9,33.6,1515,470.9
+"Center","Apartment","E","Autonomous",119.1,1282,81,8.36,24.4,21.8,2009,494.3
+"South","Apartment","D","Centralized",88.1,948.3,77.6,8.77,22.4,29.7,1528,419.1
+"South","Apartment","D","Autonomous",145,1560.8,60.6,6.61,25.8,25.5,1702,520.4
+"Center","Apartment","E","Autonomous",142.4,1532.8,50.5,11.86,22,27.5,1052,512.4
+"North","Apartment","A","Heat Pump",193.8,2086,81.6,7.57,19.3,35.8,2149,696.2
+"South","Apartment","D","Autonomous",121.9,1312.1,57.1,11,37.1,22.3,1381,463.2
+"West","Apartment","B","Heat Pump",123.5,1329.3,44.5,10.19,12.1,19.3,1562,443.9
+"South","Villa","B","Heat Pump",86.8,934.3,74.3,7.47,17.9,19.7,1345,375.9
+"Center","Apartment","C","Heat Pump",152.5,1641.5,78.3,6.58,20.9,33.7,1547,609.8
+"South","Townhouse","B","Autonomous",108.4,1166.8,48.1,8.21,20.9,28.7,1776,450.1
+"West","Villa","A","Heat Pump",128.2,1379.9,98,1.78,24.2,21.5,1870,592.2
+"South","Townhouse","E","Centralized",166.6,1793.3,18.9,16.46,33.2,30.2,1662,420.3
+"North","Townhouse","C","Heat Pump",153.8,1655.5,70.1,7.52,23.9,39.9,1491,539.9
+"South","Penthouse","C","Autonomous",110.8,1192.6,39.4,14.1,28.9,23.5,1317,373.1
+"West","Villa","A","Heat Pump",110,1184,65.6,11.01,10.2,20.3,1975,450.7
+"Center","Apartment","E","Centralized",143.7,1546.8,50,13.13,16,28.2,1276,470.1
+"East","Penthouse","B","Autonomous",170.1,1830.9,64.6,8.37,26.3,35.7,1768,583.1
+"Center","Apartment","C","Centralized",127.9,1376.7,50.4,10.16,26.7,26.3,1392,418.6
+"North","Apartment","B","Heat Pump",118.5,1275.5,77.8,7.59,31.5,30.4,1309,506.5
+"North","Villa","B","Heat Pump",151.4,1629.7,73.4,8.34,30.4,27.8,1840,582.9
+"Center","Townhouse","B","Autonomous",148.2,1595.2,79.5,5,6.5,39.4,1786,605
+"Center","Apartment","D","Autonomous",162.6,1750.2,68.6,8.51,20.7,23.9,1718,604
+"North","Penthouse","A","Autonomous",66.4,714.7,36.3,7.93,35.9,12.7,1546,291.4
+"Center","Townhouse","B","Heat Pump",75.5,812.7,61.7,13.72,35.4,16.6,1432,332.7
+"North","Villa","D","Autonomous",86.7,933.2,79,4.32,28.8,15.4,1422,394.2
+"West","Apartment","E","Autonomous",151.3,1628.6,66.9,5.95,26.6,29.5,1997,561.5
+"East","Townhouse","E","Centralized",67.6,727.6,53.3,9.66,46.3,12.9,1697,322.5
+"North","Apartment","A","Autonomous",119.7,1288.4,91.3,3.41,9.2,27,946,551
+"West","Penthouse","E","Autonomous",153.6,1653.3,54,7.71,11.8,28.3,1410,505.7
+"South","Apartment","C","Heat Pump",178.7,1923.5,59.8,7.13,12.7,35.1,2124,600.2
+"Center","Apartment","E","Heat Pump",122.8,1321.8,52.6,9.99,38.6,19.2,1819,424.6
+"North","Townhouse","C","Centralized",119.6,1287.4,62.1,7.96,40.6,26,1478,447.3
+"South","Apartment","D","Autonomous",136.2,1466,75.1,8.12,23.8,28.1,2042,538.1
+"North","Penthouse","E","Centralized",93.8,1009.7,57,10.66,21.6,21.8,1663,380.7
+"North","Townhouse","C","Centralized",42,452.1,49.8,10.27,28.1,6.8,1082,239.6
+"South","Apartment","C","Autonomous",181,1948.3,50.4,10.49,34.3,32.4,1820,576.1
+"South","Townhouse","B","Heat Pump",137.6,1481.1,36.7,10.26,32.6,21.9,1685,423.2
+"North","Townhouse","D","Autonomous",99.2,1067.8,61.2,8.08,26.7,16.3,1088,423.3
+"North","Villa","C","Centralized",137.4,1479,53.8,7.18,5.1,18.9,1518,473.6
+"South","Townhouse","C","Autonomous",118.6,1276.6,38.3,11.93,13,24.4,1090,387.8
+"West","Villa","A","Autonomous",150.4,1618.9,27.2,11.72,31.5,25,1510,391.6
+"Center","Townhouse","C","Centralized",112.8,1214.2,18,18.06,54.2,18.1,1485,317.8
+"North","Townhouse","B","Autonomous",158.2,1702.8,41.4,9.17,26.8,27.3,1997,502.2
+"Center","Penthouse","A","Heat Pump",94.2,1014,54.2,9.68,30.2,31.9,1353,380.2
+"South","Townhouse","E","Autonomous",101.9,1096.8,33.4,12.83,34.5,24.5,1530,392.5
+"North","Apartment","E","Centralized",138.4,1489.7,62.9,7.46,10.6,28.3,1575,495.8
+"East","Penthouse","E","Centralized",199.3,2145.2,89,4.35,24.3,39,2199,754.3
+"North","Apartment","C","Autonomous",92,990.3,19.4,15.55,46.9,11,1491,300.7
+"South","Apartment","D","Autonomous",111,1194.8,65.9,9.49,42.1,26.2,1447,437.3
+"South","Apartment","E","Centralized",99.1,1066.7,42.2,9.82,20.3,6.3,1064,347
+"South","Apartment","A","Autonomous",176,1894.4,82.7,4.46,11.6,33.3,1897,726
+"East","Townhouse","E","Autonomous",123.7,1331.5,64.5,7.89,45.5,26.5,1814,505.2
+"North","Villa","A","Centralized",56.3,606,64.5,6.61,14.9,8.5,628,351
+"Center","Apartment","C","Autonomous",68.1,733,56.3,9.31,27.2,18.7,848,388.3
+"West","Apartment","E","Centralized",158.5,1706.1,65.6,5.99,28.9,31.3,1600,591.2
+"South","Townhouse","B","Heat Pump",119.4,1285.2,58.2,6.48,26.6,35.4,2107,494.8
+"North","Townhouse","C","Autonomous",42,452.1,45.8,9.8,36.9,26.5,1090,248.5
+"West","Apartment","B","Heat Pump",92.7,997.8,68,6.86,17.5,18.3,1257,398.5
+"North","Apartment","C","Centralized",133.3,1434.8,85.6,4.04,26.8,25.4,1609,570.8
+"West","Apartment","C","Autonomous",130.4,1403.6,56.2,9.31,14.1,35.3,1746,459.3
+"West","Apartment","D","Autonomous",72.2,777.2,42.7,9.95,26.7,5.2,1042,291.1
+"North","Villa","A","Autonomous",142.9,1538.2,32.8,13.27,28.7,28.2,1672,392.1
+"East","Apartment","D","Autonomous",116,1248.6,64,7.23,18.9,25.4,1201,474.7
+"South","Townhouse","C","Autonomous",168.1,1809.4,27.7,16.42,38.3,37.1,2144,459.9
+"North","Villa","A","Centralized",148.2,1595.2,62.8,7.64,25.3,24.1,1885,484.1
+"West","Apartment","D","Autonomous",161.5,1738.4,36.2,11.59,34.6,24.9,1861,475.9
+"Center","Apartment","B","Autonomous",57.3,616.8,43.3,9.92,34.9,13.8,1227,323.2
+"Center","Penthouse","C","Centralized",145.4,1565.1,49.6,7.05,21.3,32.4,1618,511.2
+"Center","Apartment","D","Centralized",144.2,1552.2,66.1,6.51,28.3,37.6,1656,552.3
+"South","Townhouse","B","Heat Pump",142.1,1529.6,75.8,5.41,37,36.6,1813,545.4
+"Center","Penthouse","D","Autonomous",77.2,831,47.8,6.22,36.7,16.5,1210,335
+"South","Apartment","D","Autonomous",144.7,1557.5,55.4,8.84,34.5,17.5,1630,475
+"North","Penthouse","D","Heat Pump",48.7,524.2,53.8,12.77,31.4,18.5,1431,273.5
+"North","Penthouse","C","Autonomous",106.6,1147.4,48,10.02,39.7,19.4,1751,392
+"West","Townhouse","A","Autonomous",122.8,1321.8,58,7.66,30.2,14.8,1536,440.5
+"Center","Apartment","C","Autonomous",124.5,1340.1,65.4,7.58,25.7,31.3,1606,503.7
+"North","Townhouse","D","Autonomous",181.4,1952.6,92.7,0.6,16.6,42.7,1760,738.7
+"South","Apartment","C","Autonomous",114.5,1232.5,79.7,3.98,15.4,27.3,1575,514.5
+"North","Penthouse","A","Autonomous",97.3,1047.3,68.7,8.25,33,10,1302,408.6
+"Center","Apartment","E","Autonomous",142.3,1531.7,70.1,3.93,8.9,30.7,2050,530.2
+"North","Townhouse","E","Centralized",132.1,1421.9,58,10.52,23.8,29.9,1742,486.2
+"West","Townhouse","C","Autonomous",136.2,1466,44.6,13.51,20.3,23,1649,440.5
+"East","Apartment","C","Centralized",120,1291.7,62.6,9.73,13.9,24.5,1838,437.7
+"Center","Apartment","C","Autonomous",133.9,1441.3,70.1,10.71,26,32.1,2102,514.6
+"Center","Apartment","D","Centralized",134.4,1446.7,78.8,3.85,6.6,31.1,1549,590
+"Center","Apartment","C","Autonomous",145.4,1565.1,65.1,10.75,25.2,29.3,1586,540.9
+"North","Villa","A","Autonomous",168,1808.3,46,11.71,24.7,29.6,2058,530.6
+"East","Townhouse","D","Heat Pump",197.7,2128,69.5,8.15,6.4,29,1817,669.3
+"South","Villa","A","Autonomous",103,1108.7,34.4,11.57,19,11.8,1553,355
+"North","Apartment","D","Autonomous",157.6,1696.4,36.5,11.54,32.9,21.9,1788,494.7
+"North","Apartment","A","Autonomous",92.7,997.8,52.3,12.75,34.2,10.5,836,340.5
+"South","Apartment","D","Centralized",100.4,1080.7,57.1,10.82,25.7,30.4,1421,394.1
+"Center","Villa","C","Autonomous",125.4,1349.8,33.4,11.85,26.5,17.4,1135,400.2
+"North","Apartment","D","Autonomous",104.6,1125.9,78.3,2.5,10.2,26,1820,502.3
+"Center","Townhouse","C","Centralized",183.2,1971.9,73.1,8.06,12.5,32.4,2118,644.6
+"West","Apartment","E","Centralized",101,1087.2,56,15.01,18.4,26.8,1445,367.4
+"West","Townhouse","D","Centralized",117.3,1262.6,44.5,9.29,39.5,27.5,1762,415.5
+"Center","Apartment","C","Autonomous",147.9,1592,47.1,11.24,12.3,35.5,1434,521.3
+"North","Apartment","C","Centralized",136.2,1466,52.6,9.76,11.6,21.9,1516,493.1
+"Center","Apartment","B","Autonomous",142,1528.5,74.4,9.59,26.2,31.5,1577,550.3
+"Center","Apartment","B","Heat Pump",120.9,1301.4,56.2,8.95,15.1,14.5,1488,433.7
+"North","Townhouse","A","Heat Pump",106.7,1148.5,80.8,5.64,32.8,23.5,1409,458.7
+"West","Apartment","D","Centralized",90.7,976.3,47.1,6.82,30.5,15.4,1695,372.8
+"South","Villa","A","Autonomous",56.4,607.1,61.4,9.4,43,12.2,1106,304.9
+"North","Apartment","C","Autonomous",145.5,1566.1,77,8.42,19.9,32,1970,581.2
+"North","Penthouse","B","Heat Pump",88.9,956.9,50.6,11.03,32.3,28.3,1508,399.4
+"West","Apartment","A","Autonomous",115.9,1247.5,67.7,10.42,30.7,19.9,1410,464.6
+"Center","Apartment","C","Centralized",151.3,1628.6,69.4,7.69,24.5,33,1719,573.4
+"East","Apartment","D","Centralized",125.6,1351.9,64.3,10.64,29.3,28.7,1515,492.7
+"West","Townhouse","A","Heat Pump",127.6,1373.5,57,10.52,28.6,20.9,1452,429.2
+"West","Penthouse","B","Heat Pump",124.5,1340.1,72.3,9.29,21.6,37.6,1165,561.1
+"Center","Penthouse","A","Autonomous",155.2,1670.6,87.4,2.23,15.4,33.3,1494,629.9
+"Center","Apartment","C","Centralized",143.4,1543.5,63.5,8.89,36.7,25.5,1301,502.5
+"North","Townhouse","E","Centralized",135.8,1461.7,52.8,10.06,30.2,26,1550,500.1
+"Center","Penthouse","D","Centralized",168.3,1811.6,63.7,11.35,27.1,18.1,2078,536.9
+"South","Townhouse","E","Autonomous",143.1,1540.3,88.8,9.63,16.3,36.2,1570,552.9
+"West","Apartment","C","Autonomous",99.5,1071,59.5,9.25,38.8,22.4,1462,398.4
+"Center","Apartment","C","Autonomous",131.8,1418.7,60.6,9.01,27.8,23.8,1409,487.1
+"West","Townhouse","A","Heat Pump",99.6,1072.1,52,13.14,31,27.4,1561,405.3
+"East","Villa","A","Heat Pump",54.5,586.6,44.1,11.11,35.8,17.9,1350,253.9
+"East","Villa","C","Heat Pump",120.5,1297,62.3,8.93,20.3,25.6,1715,471.6
+"West","Apartment","C","Centralized",123.4,1328.3,29.3,14.03,38.2,20.4,1589,389
+"North","Villa","D","Centralized",123.4,1328.3,64,8.18,22.1,29.5,1797,475.8
+"North","Apartment","D","Centralized",123.9,1333.6,27.7,12.58,37.8,24.9,1426,374.5
+"Center","Penthouse","D","Autonomous",159.7,1719,57.5,11.18,39.9,29.4,1912,519.9
+"East","Apartment","C","Centralized",114.4,1231.4,38.2,9.5,46.3,32.3,1583,388.3
+"South","Penthouse","D","Autonomous",107.2,1153.9,65.6,6.65,16.6,25.7,1797,431.9
+"South","Apartment","D","Heat Pump",118.8,1278.8,45.8,14.14,26.1,20.4,1276,400.5
+"Center","Apartment","B","Autonomous",121.4,1306.7,76.9,3.72,26.4,20.3,1239,525.3
+"East","Townhouse","B","Autonomous",158.2,1702.8,50.7,10.44,19.7,32,1739,509.9
+"Center","Penthouse","B","Autonomous",126,1356.3,49.2,11.21,21.3,22.3,1883,457.6
+"Center","Townhouse","A","Autonomous",107.8,1160.3,49.8,11.42,47.2,18.6,1735,392.1
+"North","Villa","A","Autonomous",102.6,1104.4,70.6,5.8,39.9,22.6,1385,427.8
+"East","Apartment","D","Centralized",133.6,1438.1,40.2,10.81,36.5,27.2,1827,464.6
+"Center","Apartment","B","Heat Pump",155.3,1671.6,72.3,6.98,34.9,32.4,1773,559.3
+"North","Townhouse","B","Centralized",154.4,1661.9,87.2,8.81,13.7,33.6,1668,622.9
+"North","Villa","C","Autonomous",110.2,1186.2,53.6,9.37,28.6,20.7,1242,399.4
+"West","Apartment","B","Autonomous",181.1,1949.3,37.6,11.31,36,32.4,1657,517.4
+"Center","Penthouse","A","Heat Pump",108.2,1164.7,66.1,7.93,35.7,18.7,1637,433
+"East","Villa","B","Autonomous",128.1,1378.9,40.9,11.73,21.2,17.6,1682,393.9
+"West","Townhouse","D","Centralized",114.6,1233.5,49.9,14.45,18.5,24.7,1884,393.8
+"Center","Apartment","D","Autonomous",138.5,1490.8,48.2,13.77,46.7,29.3,1499,493.7
+"South","Villa","A","Centralized",165.5,1781.4,48.1,8.83,45.8,20.8,1933,517
+"North","Townhouse","C","Centralized",160.2,1724.4,87.2,5.53,29,25.5,1896,616.2
+"North","Townhouse","A","Heat Pump",133.1,1432.7,66.5,8.17,30.1,30.8,1915,501.8
+"East","Townhouse","A","Autonomous",112.1,1206.6,62.7,8.4,14.1,27.2,1404,441.8
+"South","Villa","B","Autonomous",113.8,1224.9,47.2,10.94,39.5,26.2,1771,399.7
+"East","Apartment","B","Heat Pump",139.1,1497.3,76.8,8.08,18.9,26.4,1452,526.5
+"West","Apartment","D","Autonomous",66.8,719,51,13.71,35.9,19.5,1088,321.5
+"South","Townhouse","C","Autonomous",171.3,1843.9,58.6,7.21,1,28.2,2069,594.6
+"South","Townhouse","B","Heat Pump",94.2,1014,76.2,8.66,35.3,18.6,1480,439.2
+"South","Townhouse","D","Autonomous",116.4,1252.9,38.3,14.2,32.4,17.9,1453,428
+"East","Penthouse","B","Heat Pump",153.8,1655.5,62.8,9.42,13.4,34.4,1953,537.4
+"Center","Penthouse","B","Centralized",124.5,1340.1,47.6,6.02,27.1,18.6,1931,415.6
+"West","Apartment","C","Centralized",131.3,1413.3,59,12.4,14.8,19.8,1676,479.2
+"South","Apartment","D","Centralized",113.9,1226,57.9,6.7,23.2,11.4,1191,449.5
+"South","Villa","A","Heat Pump",76.5,823.4,53.5,12.8,36.8,15.6,1266,329.6
+"South","Apartment","E","Autonomous",99.6,1072.1,82.1,6.66,27.7,27.8,995,464
+"West","Penthouse","C","Centralized",137.8,1483.3,68.5,5.8,28.5,35.9,1034,525.5
+"Center","Penthouse","C","Centralized",147.5,1587.7,74.1,3.77,18.1,25.6,1619,578.4
+"Center","Apartment","A","Heat Pump",131.5,1415.5,72.3,8.57,39.5,23.9,1737,500.1
+"North","Apartment","C","Centralized",113.5,1221.7,75.6,5.15,12.9,20,1707,542
+"Center","Villa","C","Centralized",146.2,1573.7,69.5,8.03,32.4,28.8,1340,566
+"East","Apartment","C","Autonomous",118.9,1279.8,72.3,7.78,29.9,23.9,1332,495.5
+"North","Apartment","C","Centralized",151.1,1626.4,68.3,9.18,21.4,30.8,1090,571.6
+"East","Townhouse","B","Heat Pump",93.7,1008.6,56.3,7.49,35.2,10.4,1289,351.5
+"West","Townhouse","A","Autonomous",195,2099,74,2.79,39.9,29.3,2021,682.7
+"North","Apartment","C","Autonomous",45.5,489.8,50.7,12.19,29.7,7.3,1336,280.5
+"North","Apartment","B","Autonomous",169.7,1826.6,69.4,11.21,13.4,29,1628,594.8
+"North","Penthouse","A","Autonomous",106.6,1147.4,59.2,8,17.9,24,1933,417.3
+"East","Apartment","B","Autonomous",169.8,1827.7,85,3.64,18.4,32.9,1710,699.1
+"South","Townhouse","A","Heat Pump",74.9,806.2,36.5,14.75,27.4,7.9,1563,270.5
+"South","Apartment","D","Centralized",107.1,1152.8,47.2,8.91,19.1,27.9,1973,458.3
+"Center","Apartment","D","Autonomous",147.7,1589.8,66.6,9.02,18,28.6,1760,538
+"Center","Apartment","C","Autonomous",81.1,873,55,6.06,35.7,16.2,1246,303.9
+"South","Villa","C","Centralized",121.8,1311,33.4,14.32,35,14.6,1051,374.8
+"East","Apartment","B","Heat Pump",123.7,1331.5,51.4,11.24,4.4,24.6,1448,435.7
+"North","Townhouse","C","Centralized",159.6,1717.9,54.5,11.63,27.5,21.8,1278,507.5
+"West","Apartment","C","Autonomous",87.6,942.9,60.2,9.07,26,24.7,1304,401.5
+"North","Townhouse","A","Heat Pump",119,1280.9,86.2,8.13,20.1,19.6,1291,525.8
+"North","Townhouse","B","Heat Pump",134.6,1448.8,55.4,11.06,18.4,26.1,2095,506
+"West","Apartment","C","Autonomous",161.4,1737.3,68.1,11.44,34.9,36,1926,567.8
+"South","Villa","B","Centralized",156.2,1681.3,98,7.44,7.9,34.1,1765,616.8
+"East","Apartment","C","Centralized",82.1,883.7,41.8,9.8,32.6,23.7,1177,386.6
+"North","Apartment","D","Autonomous",110.5,1189.4,47.9,7.22,36.5,23.4,1622,404
+"East","Apartment","E","Autonomous",72.4,779.3,49.1,14.12,35.8,23.3,578,311.1
+"South","Townhouse","C","Autonomous",162.4,1748.1,52.9,11.37,27.2,25.7,1735,492.6
+"West","Townhouse","D","Centralized",108.4,1166.8,68.4,10.04,16.6,14.3,1003,460.2
+"West","Apartment","C","Centralized",120.7,1299.2,56.9,10.73,13.1,23,1183,441.6
+"South","Apartment","C","Centralized",145.6,1567.2,65.1,4.25,15.2,30.3,1914,533
+"North","Townhouse","C","Autonomous",137.4,1479,50.1,12.02,34.8,27.3,1339,439
+"North","Villa","C","Centralized",101.5,1092.5,63.4,10.69,24.3,25.4,1307,437.3
+"South","Villa","C","Heat Pump",140.9,1516.6,49.5,8.85,26.8,23.8,1458,477.7
+"South","Villa","A","Heat Pump",96.1,1034.4,51.7,9.4,30.4,16,1317,390.2
+"Center","Apartment","E","Centralized",198.6,2137.7,72.9,6.76,29.1,36.7,2424,692.4
+"West","Townhouse","C","Autonomous",58.4,628.6,32,14.79,33.3,12.1,1288,265.9
+"North","Villa","A","Heat Pump",185.6,1997.8,38.7,9.85,18.5,28.6,1798,530.1
+"West","Apartment","D","Autonomous",141.7,1525.2,55.8,7.14,31.5,32,1548,460.6
+"Center","Villa","A","Heat Pump",126.8,1364.9,47.7,12.31,29.5,14.7,1657,406.1
+"North","Apartment","D","Autonomous",135.8,1461.7,85.3,6.62,27.6,31.7,1186,572.5
+"Center","Apartment","C","Heat Pump",136.1,1465,45,7.55,31.8,22.7,1613,471.7
+"North","Apartment","E","Centralized",188.4,2027.9,50.5,8.98,40,44,2191,605.1
+"South","Townhouse","C","Autonomous",167.5,1803,62.1,8.29,27.3,31.1,1653,574.8
+"Center","Apartment","C","Autonomous",139,1496.2,53.7,10.37,20.4,26.7,1625,466.9
+"East","Penthouse","D","Autonomous",114.1,1228.2,50.7,10.68,25.8,24.1,1526,462.5
+"North","Villa","B","Heat Pump",117.4,1263.7,58.7,7.18,32.1,27.6,1041,454.2
+"North","Villa","A","Autonomous",110,1184,68.8,6.34,27.7,15,1649,462.3
+"Center","Townhouse","E","Autonomous",96.2,1035.5,32.9,13.06,20.4,17.2,1479,333
+"East","Townhouse","E","Centralized",106.2,1143.1,66.5,6.52,24.6,17.5,1061,460.5
+"Center","Penthouse","A","Autonomous",181.8,1956.9,81.6,4.72,25.6,37.5,1490,708.1
+"North","Penthouse","D","Centralized",107.4,1156,51.1,10.75,21.1,19.2,1426,380.1
+"North","Apartment","C","Autonomous",121.7,1310,29.3,13.36,38.7,25.9,1516,375.8
+"South","Penthouse","B","Autonomous",162.7,1751.3,33.6,8.57,19.8,35.1,1560,491.5
+"West","Penthouse","B","Autonomous",139.3,1499.4,35.1,16.29,34.1,25.8,1276,390.5
+"East","Apartment","D","Autonomous",164.7,1772.8,68.7,5.75,28,31.9,1923,591.9
+"South","Villa","B","Autonomous",108,1162.5,61.6,5.43,10,21.7,1487,436.2
+"North","Villa","D","Autonomous",125,1345.5,69.6,4.8,19.2,27.6,1927,492.7
+"South","Townhouse","C","Autonomous",85.5,920.3,65,9.72,27.2,22.5,1148,385.6
+"Center","Apartment","C","Centralized",104,1119.4,67.9,6.34,14.7,22.1,1368,473.2
+"East","Apartment","D","Autonomous",86.8,934.3,59.5,11.9,29.6,16.5,1478,347.4
+"South","Apartment","C","Autonomous",120,1291.7,45.7,10.87,30.8,16.8,1569,393.2
+"South","Apartment","E","Centralized",137.7,1482.2,70.9,7.89,15.5,31.7,1704,582.1
+"South","Apartment","D","Heat Pump",136.5,1469.3,66.9,6.63,29.5,33.7,1573,513.9
+"Center","Apartment","D","Heat Pump",98,1054.9,28,13.58,29.3,21.5,1268,337.7
+"North","Apartment","D","Heat Pump",81.9,881.6,77.6,3.66,15.2,25.5,1270,406
+"West","Villa","B","Centralized",76,818.1,52,10.37,40.4,14.1,1379,351.7
+"North","Villa","B","Heat Pump",137.2,1476.8,59.2,5.7,23.8,27.6,1481,517.1
+"Center","Apartment","B","Autonomous",139.2,1498.3,53.5,11.75,41.2,25.8,1677,482.6
+"North","Apartment","E","Autonomous",107.1,1152.8,74.2,12.88,15.8,20.7,820,433.6
+"North","Penthouse","C","Autonomous",81.2,874,52.4,7.01,32.3,13.9,1075,307.3
+"South","Penthouse","B","Heat Pump",128.8,1386.4,45.6,10.1,29.2,19.3,1550,442.9
+"East","Apartment","B","Autonomous",98.5,1060.2,57.7,7.89,12.4,22.2,1276,445.9
+"West","Townhouse","B","Heat Pump",92.4,994.6,38.7,11.88,41,29,1387,348.5
+"Center","Apartment","D","Autonomous",143.1,1540.3,61.4,9.59,27.9,28.9,2191,526.8
+"West","Apartment","E","Autonomous",117.2,1261.5,68.2,12.12,28.7,29.1,1933,439.5
+"Center","Apartment","C","Autonomous",133.1,1432.7,98,4.59,14,20.6,1359,609.4
+"South","Apartment","A","Heat Pump",153,1646.9,68.8,6.31,33.1,42.4,1643,565.8
+"North","Apartment","D","Centralized",133.5,1437,35.5,14.21,27.1,19.2,1551,389.2
+"East","Villa","A","Heat Pump",109.6,1179.7,69.3,9.69,18.7,24.3,1300,439.5
+"East","Apartment","C","Centralized",88.3,950.5,58.9,10.59,31.5,18.8,1393,381.5
+"North","Apartment","A","Autonomous",179.4,1931,66.6,6.5,16.5,31,1770,625.4
+"Center","Penthouse","B","Autonomous",46.7,502.7,34.5,15.04,13.5,6.3,1141,236.1
+"Center","Apartment","B","Heat Pump",165.1,1777.1,85.9,5.62,19,30.2,1631,622.3
+"East","Apartment","D","Heat Pump",119.8,1289.5,66.5,10.17,23.5,27.7,1500,464.7
+"East","Penthouse","C","Centralized",185.6,1997.8,65.3,7.86,27.7,36.7,1796,638.6
+"Center","Apartment","D","Heat Pump",107,1151.7,36.7,13.95,38.2,21.2,1070,386.1
+"Center","Penthouse","A","Heat Pump",115,1237.8,59.1,6.73,28.1,23.9,1409,474.6
+"Center","Apartment","C","Centralized",135,1453.1,33.7,9.39,27.7,24.3,1492,434.1
+"East","Apartment","E","Autonomous",152.2,1638.3,50,11,20.3,31.6,1709,509.1
+"West","Townhouse","C","Autonomous",67.6,727.6,56.1,9.05,34.3,19.2,1158,330.2
+"West","Penthouse","C","Centralized",122.4,1317.5,69.2,7.97,39.4,27,1284,468.2
+"Center","Apartment","C","Autonomous",126.1,1357.3,57.6,7.1,19,32,1388,490
+"North","Penthouse","B","Centralized",129,1388.5,40.3,15.39,41.9,23.5,1169,382.5
+"East","Townhouse","C","Autonomous",126.1,1357.3,29.4,16.51,49.8,24.4,1759,361.3
+"North","Villa","D","Autonomous",113.6,1222.8,40.1,11.29,45,11.8,1184,409.8
+"North","Townhouse","A","Heat Pump",89.1,959.1,50.5,12.12,27.7,23.9,1312,338.8
+"South","Apartment","E","Autonomous",223.7,2407.9,60.5,7.41,23.3,43.6,1429,691.6
+"Center","Penthouse","B","Heat Pump",92.5,995.7,61.6,6.99,15.2,16.5,1208,414.3
+"North","Apartment","D","Autonomous",159.3,1714.7,53.6,12.27,24.2,37.9,1801,540.9
+"Center","Apartment","E","Centralized",89.6,964.4,65.2,7.38,22.7,18.4,1104,379.3
+"West","Townhouse","E","Centralized",48.4,521,79.5,5.2,34.3,17,1062,342.8
+"Center","Apartment","B","Autonomous",120.2,1293.8,62.6,10.4,20.7,18.7,1774,459.2
+"North","Apartment","B","Autonomous",199.4,2146.3,42.1,9.98,19.9,35.9,1719,585.1
+"West","Townhouse","C","Autonomous",134.9,1452.1,56.9,8.71,29.3,23.6,1877,491.5
+"West","Apartment","D","Autonomous",72.8,783.6,72.6,7.88,19.9,14.1,1502,388.4
+"South","Apartment","E","Centralized",116.2,1250.8,35.3,12.72,18.6,28.1,1643,372.8
+"South","Apartment","C","Heat Pump",89.4,962.3,74,4.86,26,28.1,1501,465.6
+"South","Villa","D","Heat Pump",108.1,1163.6,62.6,10.02,13.3,15.9,1548,440.1
+"West","Apartment","B","Autonomous",154.7,1665.2,87.8,5.65,17.3,36.1,1718,654.3
+"North","Apartment","C","Heat Pump",175.2,1885.8,57.7,9.59,32.1,42.3,2352,600.2
+"East","Penthouse","A","Autonomous",71.1,765.3,43.8,8.45,35.2,18.9,1427,329.4
+"Center","Penthouse","C","Autonomous",146.9,1581.2,70.8,4.26,27.3,30.1,1632,562.9
+"South","Villa","A","Heat Pump",106.9,1150.7,51.3,8.95,20.8,20.1,1684,428.9
+"West","Apartment","E","Autonomous",168.5,1813.7,68.2,4.81,10.4,35.6,1760,609.1
+"North","Apartment","C","Centralized",138.8,1494,56.2,9.54,33.1,24.3,1739,483.8
+"West","Apartment","E","Autonomous",120.6,1298.1,64.7,8.92,17,30.2,1186,487.4
+"South","Townhouse","B","Autonomous",145.3,1564,81.5,6.55,29.4,30.5,1796,573.7
+"West","Apartment","C","Autonomous",186.2,2004.2,68.2,6.21,21.8,42.9,2173,697.6
+"Center","Apartment","D","Autonomous",156.3,1682.4,43.3,13.69,31,31.2,1782,466.6
+"North","Townhouse","E","Autonomous",129.2,1390.7,71,6.21,26.6,21.8,1903,543.3
+"North","Villa","A","Heat Pump",148.8,1601.7,53.7,10,15.8,28.1,1462,514.7
+"West","Apartment","C","Autonomous",102,1097.9,54.2,8.68,32.7,21.5,1494,404.7
+"South","Apartment","C","Autonomous",161,1733,77.1,6.69,28.9,26.4,1756,570.6
+"West","Apartment","D","Autonomous",158.2,1702.8,79.9,2.07,9.6,29.6,1918,607.1
+"Center","Townhouse","C","Autonomous",137.2,1476.8,38.6,14.27,30.3,27.8,2084,440.9
+"South","Apartment","D","Autonomous",117.2,1261.5,44,12.58,25.6,22.5,1469,406.1
+"North","Villa","C","Centralized",119.2,1283.1,67,11.29,25.4,30.2,1705,418.4
+"East","Villa","B","Heat Pump",111.9,1204.5,56.5,7.93,26,23.5,1525,430.5
+"Center","Apartment","D","Heat Pump",157.3,1693.2,56.5,7.76,34.9,31,1142,526.7
+"North","Villa","C","Centralized",109.6,1179.7,74.9,5.72,12.4,22.5,1373,455.2
+"North","Apartment","B","Heat Pump",108.9,1172.2,45.5,11.7,27.3,30.7,1278,404.5
+"North","Apartment","D","Centralized",95.4,1026.9,49.6,12.99,32,23.1,1283,359.9
+"North","Apartment","C","Autonomous",169.4,1823.4,52.5,8.27,9,29.3,1508,534.1
+"South","Villa","A","Autonomous",141.1,1518.8,75.6,7.02,20.3,25.7,1573,583
+"East","Apartment","B","Autonomous",109.1,1174.3,60.2,5.12,19.7,13.9,1408,445.3
+"North","Townhouse","E","Autonomous",140,1506.9,69.5,7.59,17.1,30.8,1358,497.5
+"West","Townhouse","E","Autonomous",110.8,1192.6,28.6,15.88,39.6,12.9,1554,351.3
+"South","Apartment","D","Centralized",130.5,1404.7,55.7,8.72,32.2,31.9,1844,470.9
+"North","Apartment","C","Heat Pump",181.8,1956.9,72.5,5.94,8.1,34.8,1655,674.1
+"West","Townhouse","A","Centralized",86.9,935.4,73.9,3.71,23,22.7,1448,437.1
+"Center","Penthouse","B","Heat Pump",132.9,1430.5,25.3,14.63,21.6,18.7,1704,360.3
+"North","Apartment","C","Autonomous",79.2,852.5,50.5,13.82,39.4,20,1056,347.1
+"East","Villa","C","Centralized",150.5,1620,72.4,6.18,16.9,35.8,1522,579
+"Center","Penthouse","A","Autonomous",71.1,765.3,76.4,7,36.2,16.7,1237,350
+"Center","Townhouse","A","Heat Pump",62.6,673.8,56.9,11.08,18.3,22.3,1231,315.8
+"South","Townhouse","B","Heat Pump",157.4,1694.2,33.6,9.61,41.1,28.5,1775,457.7
+"Center","Apartment","A","Heat Pump",100.8,1085,54.8,9.47,23.8,22.6,1361,407.3
+"North","Villa","A","Autonomous",78.9,849.3,30.8,15.13,31.7,14.3,1230,271.6
+"Center","Apartment","A","Heat Pump",95.6,1029,51.8,8.09,25.5,14.5,1194,399.7
+"Center","Apartment","B","Autonomous",149.2,1606,52.4,9.9,17.6,28.1,1831,501.9
+"South","Villa","A","Heat Pump",120.9,1301.4,42.7,13.11,11.9,17.6,1301,398.3
+"East","Townhouse","B","Heat Pump",125.2,1347.6,58.5,9.62,25,19.3,2034,426.4
+"West","Townhouse","A","Heat Pump",131.8,1418.7,93.6,4.46,32.8,32.9,1204,584.3
+"West","Townhouse","B","Autonomous",134.2,1444.5,34.5,12.82,31.9,18.2,1471,408.1
+"North","Apartment","C","Centralized",42,452.1,38.9,10.61,39.3,5.7,653,234
+"South","Townhouse","C","Centralized",111.4,1199.1,59.2,10.57,41.1,17.4,1777,390.3
+"East","Townhouse","C","Centralized",74.6,803,58.2,9.5,29.8,21.7,1233,367.4
+"North","Townhouse","B","Autonomous",109.1,1174.3,34.5,11.67,24.5,20.8,1124,363.9
+"West","Villa","C","Heat Pump",87.6,942.9,57.7,8.86,30.8,12.8,981,364.2
+"South","Townhouse","C","Autonomous",148,1593.1,37.4,9.52,28.1,27.5,1625,457.5
+"Center","Apartment","D","Autonomous",186.8,2010.7,57.6,9.16,18.2,41.3,1531,598.4
+"West","Apartment","D","Centralized",155.1,1669.5,74.2,5.97,23.4,21.5,1496,602.3
+"North","Townhouse","A","Heat Pump",174.2,1875.1,64.7,9.12,17.5,35.2,1996,583
+"East","Villa","D","Heat Pump",124.6,1341.2,32.4,15.82,25.5,21.3,2116,374.4
+"South","Apartment","E","Heat Pump",107.1,1152.8,85.5,3.46,8.2,25.5,1338,472.1
+"Center","Penthouse","B","Heat Pump",162.8,1752.4,67.7,8.71,13.9,26.7,1613,540.1
+"North","Apartment","C","Centralized",94.4,1016.1,60.9,8.89,22.4,21.4,1912,419.2
+"North","Apartment","C","Autonomous",69.8,751.3,57.2,9.84,32.1,16.4,1504,356.5
+"South","Villa","A","Autonomous",50.6,544.7,30.8,14.03,34.4,5,1470,257.5
+"South","Penthouse","A","Heat Pump",54.8,589.9,25.9,12.68,28.1,5.6,887,262.2
+"North","Apartment","E","Autonomous",104.8,1128.1,50,11.41,19.2,10.4,1465,360.7
+"East","Townhouse","A","Heat Pump",125.4,1349.8,30.6,11.91,30.9,21.9,1656,402.6
+"West","Apartment","D","Autonomous",102.3,1101.1,70.2,7.22,34.7,31.7,1463,429.3
+"South","Apartment","D","Autonomous",63,678.1,37.5,12.82,28.9,15.9,988,319.9
+"North","Apartment","C","Heat Pump",77.9,838.5,63.3,6.93,37.5,15.3,1281,399.6
+"South","Townhouse","C","Autonomous",115.9,1247.5,45.3,13.53,25.5,20.9,785,402.6
+"East","Apartment","D","Autonomous",151.2,1627.5,82.8,7.52,42,22.6,1621,597.9
+"East","Apartment","D","Centralized",111.5,1200.2,73.7,7.52,18.1,31.4,1927,476.4
+"North","Townhouse","B","Autonomous",87.8,945.1,60.7,9.51,36.1,18.3,1528,402.3
+"Center","Apartment","E","Centralized",73.4,790.1,60.9,8.87,32.7,11.2,1310,334.2
+"Center","Apartment","C","Centralized",92,990.3,67,8.59,24.1,18.1,1365,373.7
+"West","Apartment","A","Autonomous",50.6,544.7,33.8,15.25,26.2,20.7,957,248.1
+"North","Villa","B","Autonomous",87.9,946.1,65.5,6.49,27.1,20.6,1614,417.6
+"East","Apartment","C","Autonomous",125.6,1351.9,79.6,5.2,32.7,24.1,2029,541.7
+"North","Townhouse","B","Autonomous",164.4,1769.6,54.4,12.01,25.1,25.1,1640,502
+"North","Penthouse","B","Centralized",149.8,1612.4,40.2,12.69,25.3,27.5,1531,482.3
+"North","Apartment","D","Autonomous",116.9,1258.3,59.3,5.64,40.2,32.4,1585,470.7
+"West","Villa","B","Autonomous",113.7,1223.9,44.7,13.33,23.4,17.4,1417,384.9
+"Center","Apartment","B","Autonomous",98.4,1059.2,56.4,7.97,24.1,21.7,1594,433
+"West","Apartment","A","Autonomous",144.2,1552.2,68.7,6.89,17.3,37.4,1526,602.9
+"East","Townhouse","B","Heat Pump",88.6,953.7,59.9,11.18,46,14.4,1722,376.8
+"East","Apartment","B","Heat Pump",112.4,1209.9,54.5,9.41,35.8,29.9,1311,398.8
+"North","Apartment","E","Centralized",165,1776,51.9,13.11,28.3,29.9,2013,532.5
+"North","Penthouse","A","Autonomous",111.3,1198,54.7,11.88,26.2,17.1,1516,395.8
+"North","Apartment","C","Autonomous",79.5,855.7,39.8,8.29,42.1,16.5,1179,337.2
+"Center","Villa","A","Heat Pump",114.7,1234.6,91.6,3.17,23.6,27.2,1710,515.7
+"Center","Townhouse","A","Autonomous",152.7,1643.6,71.7,7.76,26.4,29.6,1673,581.3
+"East","Apartment","C","Autonomous",178.6,1922.4,77.3,4.62,16.7,35.8,2212,690.4
+"Center","Apartment","C","Autonomous",92.9,1000,48.2,14.18,31.8,13.9,1478,350.3
+"South","Apartment","D","Autonomous",107.7,1159.3,51.2,5.25,12.8,17.8,1672,463.4
+"East","Villa","B","Heat Pump",164.7,1772.8,95.4,0.6,1,33.8,1718,673.4
+"South","Penthouse","C","Centralized",115.5,1243.2,48.6,12.71,34.8,19.5,1319,404.2
+"North","Townhouse","D","Centralized",127.1,1368.1,52.9,8.42,39.7,20.5,1863,442.7
+"West","Townhouse","B","Heat Pump",145.6,1567.2,61.4,6.9,20.1,28.9,1575,572.5
+"North","Villa","C","Centralized",162.7,1751.3,84,4.16,32,33.9,1717,645.1
+"North","Townhouse","B","Heat Pump",146.3,1574.8,18,15.49,40.2,26,1444,381.8
+"South","Apartment","C","Centralized",105.1,1131.3,76.9,2.53,31.2,34,1630,489.9
+"North","Townhouse","D","Centralized",80.8,869.7,44.8,12.83,45.3,18.3,1401,292.5
+"North","Townhouse","D","Autonomous",126.4,1360.6,43.5,9.12,28,28.6,1542,449
+"South","Penthouse","A","Autonomous",153.7,1654.4,55.4,13.26,29.8,24.3,1712,483.2
+"South","Townhouse","E","Centralized",150.6,1621,78.4,7.68,21.9,25.1,1595,569.2
+"Center","Apartment","E","Centralized",160.1,1723.3,41.5,11.01,19.8,25.7,1660,525.2
+"West","Apartment","D","Centralized",68.6,738.4,31.4,11.9,38.9,15.9,1528,273.2
+"East","Penthouse","B","Autonomous",122.7,1320.7,56.1,11.51,23.9,32.9,1319,461.5
+"South","Apartment","E","Centralized",92.8,998.9,70.1,8.58,35.1,18.9,1435,406.8
+"North","Townhouse","D","Autonomous",114.9,1236.8,85.6,6.22,27.9,24.3,934,510.4
+"South","Townhouse","A","Centralized",91.8,988.1,81.2,6.26,25.6,13.2,1914,468
+"West","Townhouse","D","Centralized",170.3,1833.1,58.4,8.42,35.1,41.3,1667,574
+"West","Townhouse","C","Centralized",102,1097.9,83.5,3.05,25.5,14.6,989,472.5
+"South","Apartment","E","Centralized",170.3,1833.1,92,6.17,30.9,37.4,1931,721
+"East","Apartment","A","Centralized",75.4,811.6,46,13.79,12.2,8.9,1358,335.3
+"Center","Apartment","A","Heat Pump",105,1130.2,69.1,7.83,31.3,27.9,1404,455.8
+"West","Townhouse","B","Autonomous",151.3,1628.6,69.1,4.8,7.5,32.2,1996,587.6
+"Center","Townhouse","A","Heat Pump",108.3,1165.7,32,8.81,36.7,21.3,1747,387.7
+"West","Townhouse","C","Centralized",184.4,1984.9,81.5,6.22,7.9,39.9,1897,714.3
+"East","Apartment","B","Heat Pump",106.5,1146.4,48.7,7.18,27,21.5,1643,439.6
+"South","Apartment","A","Autonomous",90.5,974.1,62.8,8.84,31.8,10.4,1662,374.2
+"South","Penthouse","A","Heat Pump",122.3,1316.4,67.3,10,38.4,31.5,1272,479.6
+"Center","Apartment","E","Autonomous",102.8,1106.5,42.4,11.56,29.5,27.9,1723,353.1
+"North","Penthouse","A","Heat Pump",131.4,1414.4,68.2,6.26,32,30,1373,542.6
+"South","Apartment","E","Centralized",114.8,1235.7,78.6,7.2,29.5,23.9,1573,500.3
+"South","Villa","A","Heat Pump",112.8,1214.2,37.7,9.87,23.6,25.4,1453,342.9
+"Center","Apartment","A","Heat Pump",100,1076.4,49.6,6.92,23.8,19.8,1466,416.6
+"East","Apartment","D","Centralized",97.1,1045.2,65.5,4.28,1,14.8,1553,453.3
+"Center","Villa","B","Autonomous",98.2,1057,37.4,13.51,29.2,14.3,1407,351.1
+"South","Townhouse","B","Heat Pump",169.9,1828.8,49.3,11.64,27.3,26.3,1892,542.3
+"South","Townhouse","A","Heat Pump",86.7,933.2,61.9,9.95,25.9,22.1,1575,388.9
+"East","Apartment","E","Autonomous",152.9,1645.8,59.7,8.17,16.6,25.4,1797,528.4
+"North","Apartment","E","Heat Pump",74.5,801.9,29.5,14.02,31.1,16.6,1482,279.4
+"Center","Villa","A","Heat Pump",141.2,1519.9,36.9,9.5,30.5,29.9,1892,414.4
+"South","Villa","A","Autonomous",106.6,1147.4,43.6,8.36,31.4,25.6,1331,405.2
+"South","Apartment","B","Heat Pump",109.5,1178.6,65.8,6.7,6.4,31.5,2141,452.7
+"South","Apartment","E","Centralized",149.4,1608.1,41.3,14.52,22.6,23.4,1382,440.9
+"East","Townhouse","D","Centralized",93.9,1010.7,60.4,7.32,25.9,28.3,1351,392.7
+"Center","Apartment","E","Centralized",145.3,1564,70.2,8.44,29.1,28.6,1489,580.5
+"West","Townhouse","B","Autonomous",113.1,1217.4,50,11.06,10.7,20.8,1093,389.5
+"West","Townhouse","C","Autonomous",110.1,1185.1,65.4,10.75,24.9,13.6,1817,462.6
+"North","Townhouse","D","Autonomous",140.6,1513.4,87.9,4.22,10.1,38.7,1534,613.5
+"North","Apartment","C","Autonomous",57,613.5,72.4,6.93,38.6,15.9,987,350.2
+"South","Apartment","C","Autonomous",163.2,1756.7,58.3,10.65,19.6,38.9,1360,542.7
+"Center","Townhouse","C","Autonomous",142.6,1534.9,52.2,8.35,20.3,28.7,2081,493.6
+"South","Townhouse","A","Autonomous",103.4,1113,38.6,11.65,26,25.4,1310,362.2
+"South","Villa","B","Heat Pump",113.2,1218.5,64.1,4.91,11.9,15.5,1666,425.2
+"North","Townhouse","E","Autonomous",135.2,1455.3,60.3,6.59,13.1,23.6,1603,525.4
+"East","Apartment","C","Autonomous",123.3,1327.2,50.3,9.42,23.9,20.3,1841,475.3
+"North","Villa","C","Autonomous",118,1270.1,26.1,17.38,40.5,5.1,1041,299.1
+"East","Apartment","C","Heat Pump",144.8,1558.6,56.7,9.14,27.4,21.6,1481,502.7
+"Center","Penthouse","C","Autonomous",139.2,1498.3,57.2,7.47,39.2,27.9,1287,482.9
+"Center","Apartment","E","Autonomous",179,1926.7,49.3,10.79,27,27,2122,537.1
+"East","Villa","A","Heat Pump",124.8,1343.3,73.7,5.88,19.1,22.5,1697,503
+"South","Villa","A","Autonomous",94.8,1020.4,70.5,7.79,30.8,20.2,1193,427.1
+"Center","Apartment","B","Heat Pump",75.4,811.6,49.7,13.91,30.1,13.4,1795,317
+"Center","Penthouse","B","Heat Pump",106,1141,46.2,9.92,42.2,20.5,1597,392.5
+"North","Townhouse","D","Autonomous",94,1011.8,46.2,7.59,29.8,20.9,1123,377.3
+"Center","Apartment","B","Centralized",141.4,1522,50.8,9.75,47.1,25.2,1558,481.9
+"South","Townhouse","B","Heat Pump",131.3,1413.3,52.3,11.07,9.7,21.8,1742,457.6
+"East","Townhouse","D","Autonomous",137,1474.7,74.1,5.47,10.7,27.9,1755,556.5
+"North","Townhouse","D","Autonomous",121.6,1308.9,38.6,12.8,36.3,17.5,1177,433.7
+"South","Villa","B","Centralized",116,1248.6,61.3,6.62,32.6,27.8,1198,460.4
+"West","Apartment","C","Autonomous",185.5,1996.7,53.3,11.68,25.5,42.9,1624,576.3
+"East","Penthouse","A","Heat Pump",135.9,1462.8,64.5,7.3,6,30.7,1384,519.1
+"Center","Townhouse","C","Centralized",133.8,1440.2,74.1,5.46,14.8,30.1,1915,524
+"North","Villa","C","Autonomous",133.6,1438.1,67.8,9.67,30.7,20.7,1547,523.5
+"South","Apartment","A","Heat Pump",127.1,1368.1,51.8,10.69,38,14.1,1748,431.4
+"West","Penthouse","B","Heat Pump",146.6,1578,45.8,11.87,22.3,36,1259,487.8
+"South","Apartment","B","Autonomous",147.7,1589.8,72.6,3.8,18.2,20.2,1282,567.2
+"East","Townhouse","E","Autonomous",162.1,1744.8,66.3,8.84,8.7,39.1,2105,580.1
+"South","Villa","B","Autonomous",106.9,1150.7,52.4,6.7,27.2,23.9,1491,414.8
+"Center","Penthouse","C","Heat Pump",179.7,1934.3,59,12.13,26.1,28.3,2032,560.7
+"West","Townhouse","D","Autonomous",79.3,853.6,54.7,10.05,36.5,16.8,1174,388.2
+"West","Villa","A","Autonomous",176.4,1898.8,72.3,6.77,35.9,29.3,1921,606.9
+"North","Villa","B","Heat Pump",109,1173.3,58.4,10.44,37,24.5,1515,440.3
+"West","Apartment","D","Autonomous",120.8,1300.3,76.3,11.07,33,29.8,1711,486.7
+"West","Apartment","B","Autonomous",122.3,1316.4,50.8,9.25,18.6,22.9,1888,413
+"East","Penthouse","A","Heat Pump",101.9,1096.8,64.1,7.18,27.5,24.1,1267,444.1
+"South","Townhouse","C","Centralized",101.2,1089.3,45.5,11.39,34.8,20.1,1739,374.8
+"South","Villa","A","Heat Pump",181.5,1953.6,41.9,12.03,21.4,33,2040,508.9
+"North","Apartment","C","Centralized",200,2152.8,56.9,9.82,15.5,37.1,1829,629.7
+"North","Villa","C","Autonomous",73.9,795.5,33.9,12.86,21.4,18.6,1120,312.8
+"South","Villa","C","Centralized",128.5,1383.2,63.2,2.04,21.6,19.3,1966,528.7
+"Center","Penthouse","A","Autonomous",116.1,1249.7,86.6,6.84,13.5,28.3,1168,496.4
+"East","Townhouse","C","Autonomous",137.4,1479,98,3.58,10,28.8,1454,621.2
+"West","Villa","D","Centralized",137.4,1479,90.4,3.93,13.3,34.9,1237,592.7
+"Center","Penthouse","A","Heat Pump",108.4,1166.8,45.5,13.17,29.6,21.9,1514,369.9
+"East","Townhouse","C","Autonomous",134.2,1444.5,43.4,9.17,32.3,30.5,1430,451.9
+"North","Villa","B","Heat Pump",179.5,1932.1,65.7,12.23,16.8,35.8,1843,626
+"East","Villa","A","Autonomous",94.5,1017.2,69.5,7.21,22.8,30.4,1094,418.8
+"South","Apartment","A","Heat Pump",146.1,1572.6,50.1,15.19,39,25,1923,452.5
+"Center","Penthouse","A","Centralized",126.4,1360.6,40.1,11.76,32.8,28.4,1510,427.4
+"West","Townhouse","A","Heat Pump",129.4,1392.8,44.9,8.86,49.2,29,1436,421.5
+"Center","Townhouse","B","Autonomous",133.8,1440.2,45.8,6.39,19.8,28.9,1618,456.7
+"South","Apartment","E","Autonomous",146.6,1578,71.4,5.93,23.7,30.7,1669,576
+"East","Townhouse","A","Autonomous",121.1,1303.5,32.6,12.8,31.2,21.9,1463,366.3
+"North","Villa","C","Autonomous",131.4,1414.4,53.9,7,42.1,31.3,1027,484.9
+"Center","Apartment","C","Centralized",121.5,1307.8,29.9,11.19,27.8,20.5,1537,367.8
+"North","Villa","B","Heat Pump",164.9,1775,73.5,7.81,13.9,38.2,1566,635.5
+"North","Apartment","B","Autonomous",142.4,1532.8,72.8,7.13,28.9,36.3,1300,567.9
+"North","Apartment","E","Heat Pump",121.4,1306.7,73.6,8.45,35.3,27.7,2035,513.8
+"Center","Apartment","C","Autonomous",176,1894.4,67.6,8.19,31.8,37.4,1940,612.8
+"Center","Apartment","D","Heat Pump",142,1528.5,72.5,7.48,13.7,29.9,2126,574.6
+"Center","Apartment","B","Autonomous",139.2,1498.3,74.4,11.99,19.5,26.3,1817,522
+"South","Apartment","C","Autonomous",128.3,1381,44.8,6.31,50.2,25,1676,459.2
+"West","Villa","C","Centralized",121.9,1312.1,91.2,2.24,2.9,28.2,1110,567.9
+"East","Apartment","B","Heat Pump",160.4,1726.5,55.7,11.56,41.9,18.3,1504,531.5
+"West","Apartment","B","Heat Pump",81.1,873,41.8,12.02,41.1,7.6,1122,339.4
+"Center","Townhouse","B","Heat Pump",88.8,955.8,67.9,8.87,21.6,16.9,1306,389.1
+"East","Townhouse","B","Centralized",130.2,1401.5,63.4,5.76,21.1,35.6,1519,495.7
+"North","Townhouse","B","Heat Pump",171.8,1849.2,62.7,7.72,13.9,27.4,2165,565.9
+"North","Apartment","C","Autonomous",81.2,874,33.3,10.19,31.6,12,1535,302.3
+"East","Apartment","D","Heat Pump",173.2,1864.3,68.2,8.11,26.1,26.1,1746,567.3
+"South","Villa","E","Autonomous",72,775,64.7,8.04,33.5,9.1,1229,374.1
+"South","Villa","B","Autonomous",125.6,1351.9,94.7,3.93,2.9,30,1839,572.2
+"North","Villa","D","Centralized",81.8,880.5,42.1,13.09,29,19,1648,303.5
+"West","Apartment","D","Autonomous",118.1,1271.2,67.2,5.71,21.1,26.9,1185,454
+"West","Apartment","D","Centralized",129.1,1389.6,40.8,13.91,22.8,25.1,1520,423.5
+"North","Townhouse","D","Centralized",130.8,1407.9,56.4,11.35,30.8,28.1,1439,441.6
+"East","Apartment","E","Autonomous",114.2,1229.2,49.1,9.76,39.8,24.7,1420,420.3
+"South","Villa","A","Centralized",118,1270.1,23.4,12.43,38.2,18,1591,331.6
+"West","Apartment","C","Centralized",136.3,1467.1,26,14.06,25.7,17.7,1472,368.8
+"West","Apartment","C","Centralized",87,936.5,69.9,6.45,25.9,21.1,1754,414.1
+"South","Apartment","E","Centralized",96,1033.3,52.5,11.51,32.4,21.3,1431,414
+"East","Villa","C","Heat Pump",174.4,1877.2,80.8,10.57,24.8,30.4,1545,636.3
+"South","Villa","A","Heat Pump",58.4,628.6,24.7,16.6,29.9,7.2,649,245.6
+"North","Penthouse","B","Heat Pump",150.9,1624.3,61.6,6.8,21.8,30.7,2011,535.2
+"East","Townhouse","B","Heat Pump",149.8,1612.4,66.3,8.23,17,23.8,1588,491
+"East","Apartment","D","Autonomous",175.1,1884.8,85.3,3.56,17.2,36.9,1458,706.6
+"East","Penthouse","B","Heat Pump",110.3,1187.3,39.8,15.28,29.2,20.8,1527,385.1
+"North","Apartment","D","Centralized",157.1,1691,74.5,6.97,13.3,25.8,1922,608.9
+"Center","Apartment","E","Heat Pump",115.2,1240,51.4,11.19,45.3,25.3,1515,402
+"Center","Apartment","C","Centralized",111,1194.8,74.5,5.1,36.4,20,1691,453.5
+"South","Penthouse","A","Autonomous",162.8,1752.4,63.1,11.19,34.9,29.4,1553,558.9
+"West","Townhouse","B","Autonomous",138.5,1490.8,65.1,10.32,11.9,26.9,1595,471.7
+"West","Apartment","C","Centralized",126,1356.3,51.2,9.74,36,22.9,1727,405.6
+"Center","Penthouse","C","Centralized",112.2,1207.7,60.6,9.74,23,20.3,1277,422
+"East","Apartment","E","Heat Pump",126.8,1364.9,58.1,6.99,27.1,24.8,1383,476.6
+"East","Villa","B","Heat Pump",136.3,1467.1,61.6,8.23,3.5,29.6,1199,476.7
+"East","Apartment","A","Heat Pump",119.3,1284.1,56.4,9.13,24.1,21.6,1494,435
+"Center","Townhouse","B","Autonomous",88.6,953.7,68.5,8.87,30.8,8.2,950,365.3
+"Center","Townhouse","C","Autonomous",139.1,1497.3,55.3,10.6,8.3,25.8,1685,485.1
+"North","Villa","C","Heat Pump",126.6,1362.7,39.6,11.78,29.6,24.6,1632,376.9
+"East","Townhouse","B","Autonomous",157.3,1693.2,60.5,6.9,20.3,39.9,1731,590.6
+"North","Villa","C","Centralized",81.3,875.1,39.2,11.55,49.2,21.1,1388,317.6
+"South","Penthouse","B","Heat Pump",64.8,697.5,79.3,3.37,23.6,7.7,1672,384.1
+"North","Townhouse","C","Autonomous",108,1162.5,86.8,2.19,15.2,32,1299,522.5
+"Center","Apartment","B","Centralized",112.4,1209.9,63.9,6.84,30.3,32,1674,421.1
+"Center","Apartment","D","Centralized",131.1,1411.1,65.5,6.75,16.1,35.5,1245,510
+"East","Villa","A","Heat Pump",78.8,848.2,40.1,11.5,37.4,15.7,1513,348.1
+"Center","Apartment","A","Heat Pump",93.3,1004.3,65.3,4.44,30.1,14.7,1368,432.1
+"Center","Villa","A","Heat Pump",122.5,1318.6,64.7,6.06,6,22.6,1386,492
+"Center","Penthouse","C","Centralized",110.4,1188.3,55.3,6.31,22.8,20.6,1847,450
+"South","Apartment","E","Heat Pump",118.6,1276.6,61.2,8.92,21.7,28.2,1463,412.5
+"Center","Villa","D","Autonomous",82,882.6,84.1,2.38,20.7,16.5,1518,431.2
+"West","Apartment","A","Heat Pump",93.1,1002.1,79.1,5.59,16.3,20,1577,482.3
+"West","Penthouse","B","Heat Pump",91.9,989.2,53.9,12.54,40.6,15.4,1263,345.9
+"West","Townhouse","B","Heat Pump",75.5,812.7,65.5,5.38,23.7,13.5,1304,387.5
+"North","Apartment","A","Autonomous",122.3,1316.4,82.9,3.38,26.2,23.6,1477,520
+"South","Townhouse","C","Autonomous",96.1,1034.4,45.9,12.77,38,30.4,928,388.4
+"Center","Apartment","D","Heat Pump",117.1,1260.5,60.5,9.17,21.3,20.8,1253,441.9
+"East","Townhouse","A","Heat Pump",150.7,1622.1,41.1,10.68,25.5,30,1157,470
+"South","Penthouse","C","Heat Pump",140.7,1514.5,47.9,13.14,9.7,26.3,1623,448.2
+"West","Townhouse","A","Heat Pump",126.4,1360.6,20.5,12.7,38.8,26.2,1515,376.8
+"West","Apartment","D","Centralized",147.3,1585.5,51.4,12.57,17.7,34.4,1729,514.8
+"South","Apartment","D","Centralized",109.8,1181.9,49.8,7.79,36.2,18.8,1116,430.4
+"South","Apartment","C","Autonomous",117.4,1263.7,66.5,9.59,25.9,32,1760,431.7
+"West","Apartment","C","Autonomous",138.4,1489.7,42.8,10.9,34.2,23.2,1447,440.3
+"West","Townhouse","D","Autonomous",137.2,1476.8,64.4,9.9,33.3,32.9,1185,477.9
+"Center","Apartment","E","Centralized",148.7,1600.6,52.5,13.5,26.9,22.7,1418,486.3
+"North","Penthouse","E","Autonomous",138,1485.4,47.1,9.54,29.6,20.3,1710,466
+"East","Apartment","B","Autonomous",149.4,1608.1,63.1,8.71,29.4,27.6,1824,543.4
+"West","Penthouse","B","Autonomous",142,1528.5,74.6,0.82,15.9,28.4,1847,582.7
+"Center","Apartment","D","Autonomous",110.3,1187.3,37.8,11.59,26.3,24.2,1028,402.1
+"Center","Penthouse","D","Autonomous",147.8,1590.9,71.7,8.09,27.1,32.8,2262,495.8
+"North","Villa","B","Autonomous",86,925.7,42.7,12.06,30.8,19.1,1727,333.1
+"Center","Penthouse","B","Centralized",187.5,2018.2,47.4,10.02,31.3,33.7,1767,556.1
+"North","Villa","A","Autonomous",154.3,1660.9,80.9,4.6,24.2,38.6,1890,639.8
+"North","Villa","C","Autonomous",103.6,1115.1,29.9,12.25,27.6,27.4,1076,364.9
+"Center","Apartment","D","Autonomous",57.2,615.7,30,15.61,33.7,12.5,1185,279.4
+"South","Townhouse","B","Autonomous",128.6,1384.2,73.3,7.34,26.4,28.5,1866,497.7
+"North","Villa","C","Centralized",114.8,1235.7,55.3,7.94,26.4,25.9,1634,420.1
+"West","Apartment","B","Heat Pump",180.4,1941.8,84.7,7.04,12.3,37.5,2169,682.9
+"West","Apartment","C","Autonomous",141.3,1520.9,98,3.9,1.8,20.8,984,635.8
+"West","Villa","A","Heat Pump",67.2,723.3,64.5,8.76,37.2,21.8,1228,367.9
+"East","Apartment","D","Heat Pump",125.4,1349.8,69.4,5.95,15.3,25.8,1805,521.2
+"North","Apartment","C","Centralized",101.5,1092.5,65,7.49,24.3,24.1,1306,432.9
+"North","Townhouse","B","Autonomous",67.6,727.6,57.9,11.95,29.4,23.2,1328,317.1
+"East","Villa","C","Autonomous",151.7,1632.9,45.7,12.65,29.8,26.7,1697,497.2
+"East","Apartment","E","Centralized",146.2,1573.7,83.2,5.62,19.9,22.7,1764,592
+"West","Apartment","A","Heat Pump",112.3,1208.8,79.5,3.87,21.3,31.6,1471,518.8
+"Center","Penthouse","A","Heat Pump",158.5,1706.1,75.1,8.05,14.2,37.4,1782,607.6
+"Center","Apartment","C","Autonomous",104.8,1128.1,77,7.46,29.9,19.1,1421,450.9
+"South","Apartment","C","Autonomous",77.6,835.3,33.8,9.07,35,12.2,1225,319
+"Center","Townhouse","B","Heat Pump",158.7,1708.2,48,15.05,48.7,24.7,1748,512.9
+"North","Apartment","C","Centralized",107.9,1161.4,62.7,6.95,10.1,19.6,1181,421.7
+"Center","Apartment","C","Centralized",134.2,1444.5,66.6,4.36,37.5,31.1,1474,515.4
+"North","Apartment","B","Autonomous",86.2,927.8,68.9,3.32,17.1,28.3,1512,413.5
+"East","Penthouse","A","Autonomous",83.1,894.5,78.7,4.04,21.8,22.9,1210,439.6
+"North","Townhouse","C","Autonomous",145.8,1569.4,58.4,6.56,30.4,18.6,1677,487.6
+"West","Villa","C","Autonomous",112.1,1206.6,50,13.38,37.5,14.5,2038,381.2
+"West","Townhouse","C","Centralized",99.5,1071,51.5,13.03,34,20.4,1606,394.3
+"East","Villa","C","Heat Pump",130.1,1400.4,49.4,9.91,24.3,24.6,1304,456
+"West","Townhouse","B","Autonomous",49.3,530.7,63.9,4.75,22.2,7.2,1179,310.1
+"South","Villa","C","Autonomous",100.5,1081.8,69.1,5.04,50.6,22.2,1594,473.6
+"East","Apartment","A","Heat Pump",179.9,1936.4,79.4,5.15,1,36.7,1314,644.2
+"Center","Apartment","E","Autonomous",139.4,1500.5,56.6,8.8,31.6,26.1,1565,489.5
+"North","Apartment","E","Autonomous",73.9,795.5,65.4,11.03,34,19.8,1326,331
+"East","Apartment","C","Autonomous",110.1,1185.1,70.8,6.17,23.3,32.4,2111,497.7
+"North","Apartment","B","Heat Pump",110.4,1188.3,68.7,9.58,26,21.9,1947,446
+"Center","Townhouse","C","Autonomous",85.1,916,41.3,10,35.5,20.6,1065,352.6
+"South","Villa","A","Autonomous",104.1,1120.5,34.5,11.06,35.7,25.5,1450,363.8
+"Center","Townhouse","D","Centralized",127.8,1375.6,20.4,14.68,38.5,20.9,1497,371.1
+"North","Villa","A","Autonomous",143.8,1547.8,70.5,8.22,37.6,28.2,1504,538.7
+"West","Townhouse","C","Centralized",113,1216.3,74.6,8.69,15.3,21.7,1571,429.8
+"Center","Villa","A","Heat Pump",152.2,1638.3,65.9,7.83,23.5,23,1734,539.8
+"East","Apartment","C","Autonomous",66.6,716.9,82.6,2.72,20.7,12.8,860,351.9
+"North","Villa","B","Heat Pump",191.6,2062.4,62.7,8.94,21.3,36.1,1373,612.1
+"South","Penthouse","A","Heat Pump",152.7,1643.6,53,9.84,25.4,29.3,1674,493.1
+"Center","Apartment","C","Centralized",102.8,1106.5,69.6,7.34,14,21.8,2046,439.2
+"Center","Apartment","A","Heat Pump",126.6,1362.7,78,10.07,19.6,27.6,1228,513.9
+"North","Apartment","C","Centralized",101,1087.2,39,11.39,33.7,13.6,1511,351
+"East","Apartment","C","Centralized",105.2,1132.4,59.6,11.6,27.5,21.8,1213,388.1
+"North","Penthouse","D","Heat Pump",140,1506.9,80,4.6,27.3,21.3,1331,588.8
+"West","Penthouse","B","Autonomous",58,624.3,71.6,7.14,34,15.4,1182,323.6
+"West","Apartment","C","Heat Pump",147,1582.3,58.2,8.68,20.5,25.9,2066,516.3
+"North","Villa","E","Autonomous",139.6,1502.6,50.3,9.22,20.9,28.7,1656,479.9
+"South","Villa","A","Autonomous",132.2,1423,96.4,5.64,16.2,29.3,1603,601.1
+"South","Villa","C","Autonomous",97.2,1046.3,59.9,6.76,25.4,16.1,822,374.3
+"North","Villa","A","Heat Pump",135.7,1460.7,50,10.86,14.9,29.2,1548,491.5
+"South","Townhouse","C","Autonomous",109.8,1181.9,53.1,8.4,15.6,26.1,1832,421
+"North","Villa","A","Autonomous",178.9,1925.7,65.2,8.57,13.6,36.4,1665,625.8
+"Center","Apartment","B","Autonomous",137.8,1483.3,47.2,12.44,39.7,33.8,1492,443.7
+"South","Apartment","E","Autonomous",172.1,1852.5,60.7,6.24,27.7,40.6,1664,608.2
+"North","Apartment","A","Heat Pump",107.5,1157.1,70,8.59,31.7,24.3,1088,453.3
+"West","Apartment","C","Autonomous",176.9,1904.1,92.7,2.03,11.6,38.3,1705,726.4
+"South","Townhouse","A","Centralized",171.6,1847.1,46.8,11.66,16.8,38.8,1502,532.3
+"South","Villa","B","Autonomous",136.8,1472.5,60.5,8.95,26.7,27,1770,481.8
+"East","Apartment","C","Heat Pump",171.5,1846,78.4,6.51,29.6,30,1570,622.8
+"South","Villa","B","Autonomous",161,1733,60.1,7.01,21.6,28.6,1507,561.1
+"West","Apartment","A","Autonomous",154.6,1664.1,62,11.01,28,27.5,1634,532.1
+"North","Villa","D","Autonomous",184.2,1982.7,61.3,9.52,26,41.2,1963,605.7
+"North","Villa","E","Autonomous",108.4,1166.8,63.4,7.82,34.5,26.3,1436,437.2
+"South","Penthouse","C","Autonomous",151.3,1628.6,34.3,15.81,29.6,26.5,1922,397.9
+"Center","Apartment","C","Centralized",168.7,1815.9,56.4,10.91,27.5,26.9,1682,541.2
+"South","Townhouse","B","Autonomous",65.9,709.3,52.8,9.35,25.7,14.8,1044,358.5
+"Center","Apartment","E","Autonomous",170.8,1838.5,79.4,7.41,25.7,37.1,1294,678.3
+"North","Apartment","E","Centralized",79,850.3,39.1,13.82,25.7,13,1532,349.4
+"North","Villa","B","Heat Pump",80.7,868.6,39.6,10.74,32.7,7.1,1651,330.6
+"West","Townhouse","B","Heat Pump",135.2,1455.3,32.9,16.89,42.6,26.3,1492,424.9
+"North","Apartment","E","Centralized",55.6,598.5,63.4,9.19,27.5,9.6,1393,303
+"North","Townhouse","B","Heat Pump",91.4,983.8,60.7,7.26,44.1,27.1,1250,407.4
+"North","Villa","C","Centralized",139.3,1499.4,67.4,10.94,21.5,33.1,1713,507.5
+"North","Villa","C","Autonomous",134.8,1451,61.9,6.29,30.2,18.3,1855,512.4
+"Center","Apartment","D","Centralized",163.3,1757.7,21.7,17.13,20.6,28.6,1739,386.5
+"Center","Apartment","D","Autonomous",130.7,1406.8,92.1,1.79,19.3,22.4,1364,614.7
+"North","Apartment","B","Heat Pump",81,871.9,51.6,12,19.7,6.9,1061,344.8
+"Center","Apartment","C","Centralized",72.4,779.3,41.7,13.17,24.6,14.7,905,310.4
+"South","Apartment","C","Centralized",139.1,1497.3,61.6,5.89,15.1,23.4,1305,535.2
+"South","Apartment","B","Autonomous",107.3,1155,78.7,7,10.4,28.8,1233,465.8
+"Center","Apartment","C","Autonomous",156,1679.2,79.3,2.94,15.4,31.9,1904,631
+"East","Apartment","C","Centralized",139.6,1502.6,57,8.03,8.6,27.2,1388,482.8
+"West","Apartment","E","Autonomous",85.2,917.1,38.3,10.84,30.2,14,1535,325.6
+"North","Apartment","D","Centralized",125.7,1353,60.1,8.46,36.4,21.2,1682,487.8
+"East","Penthouse","B","Centralized",153.9,1656.6,62.3,6.77,24.6,29.6,1923,562
+"East","Apartment","A","Heat Pump",104.8,1128.1,62.3,10.68,19.5,19,1386,430.7
+"North","Townhouse","C","Autonomous",63.8,686.7,65.8,8.45,18,19.5,1833,361.5
+"South","Villa","A","Autonomous",133.2,1433.8,62.8,9.97,31.3,29,1763,464.2
+"South","Penthouse","A","Centralized",129.6,1395,52.3,11.26,12,10.9,2004,441.2
+"North","Villa","B","Autonomous",110.6,1190.5,76.8,6.41,22.5,22.9,1706,495.2
+"Center","Villa","A","Autonomous",124.7,1342.3,98,1.59,3.6,28.9,1860,631.6
+"Center","Apartment","C","Autonomous",115.5,1243.2,57.8,13.87,27.5,23.4,1305,392
+"East","Apartment","B","Heat Pump",107.7,1159.3,73.8,7.06,10.7,27.3,1180,493.5
+"North","Townhouse","A","Autonomous",138.3,1488.6,84.3,7.32,24.3,25,1619,523.2
+"South","Villa","A","Centralized",114.5,1232.5,77.8,8.2,15,23.6,1346,463.1
+"East","Townhouse","A","Heat Pump",113.5,1221.7,65.9,11.58,31.7,26.4,1537,491.6
+"Center","Apartment","D","Autonomous",169.3,1822.3,83.9,9.49,32.3,30.9,1311,658.2
+"Center","Penthouse","C","Heat Pump",105.3,1133.4,75.2,5.54,9.1,24,1596,466.9
+"East","Villa","B","Centralized",81,871.9,98,0.6,12.5,14.1,1166,443.2
+"North","Villa","B","Heat Pump",133.2,1433.8,58.9,12.1,15.3,28.9,1324,492.7
+"South","Apartment","D","Centralized",69.4,747,46.2,8.73,31.5,12.4,1000,330.6
+"West","Townhouse","C","Heat Pump",115.6,1244.3,51.6,11.06,38.9,25.4,1316,436.5
+"Center","Apartment","B","Autonomous",109.4,1177.6,60.9,11.91,28.9,24.9,1767,455.2
+"West","Townhouse","B","Centralized",216.3,2328.2,97.8,7.14,43.6,46.5,2196,856.3
+"West","Townhouse","C","Autonomous",156.4,1683.5,70.9,5.01,21.6,27.3,1452,563.6
+"East","Apartment","E","Centralized",135.5,1458.5,47.1,11.62,29.4,16.1,1614,443.3
+"Center","Apartment","D","Autonomous",123,1324,65.4,6.18,24.2,29,1967,492.5
+"North","Townhouse","D","Centralized",90,968.8,34.2,11.46,36.4,18.7,1147,321.8
+"Center","Apartment","D","Autonomous",53.8,579.1,54,4.88,30,6.1,1349,329.6
+"West","Villa","C","Autonomous",167,1797.6,72.3,9.06,19,30,1938,589
+"North","Townhouse","A","Heat Pump",115.3,1241.1,77.2,3.24,18.9,21.1,1238,502.1
+"North","Apartment","D","Centralized",103.4,1113,61.9,6.71,21,18.7,1014,409.1
+"South","Apartment","E","Centralized",81.7,879.4,73.2,3.29,35.5,27.2,1810,438.1
+"Center","Townhouse","D","Centralized",158.5,1706.1,63.6,8.39,26.5,33,1332,556.4
+"East","Apartment","A","Heat Pump",148.2,1595.2,39.3,8.76,38.7,25.7,1506,435.5
+"West","Townhouse","D","Autonomous",172.4,1855.7,32.4,9.51,23.6,31.1,1755,522.7
+"North","Penthouse","A","Heat Pump",124.3,1338,64.6,4.47,27.9,30.7,1337,517
+"East","Townhouse","A","Heat Pump",134.2,1444.5,90.2,5.9,21.8,24.1,1709,574.4
+"Center","Apartment","C","Autonomous",127.9,1376.7,69.7,6.4,10,30.3,1656,518.1
+"East","Townhouse","C","Centralized",101.8,1095.8,69,6.12,36.4,14.4,1167,435
+"North","Apartment","E","Centralized",147.4,1586.6,76.8,6.01,23.6,26.1,1695,555.8
+"South","Penthouse","A","Heat Pump",106.5,1146.4,69,2.73,26.5,25.4,1731,477.2
+"West","Apartment","A","Heat Pump",114.2,1229.2,85.6,7.52,26.5,29.3,1356,487.7
+"South","Townhouse","E","Heat Pump",151.1,1626.4,85.8,5.4,21.5,39.7,1737,619.5
+"West","Apartment","A","Autonomous",146.7,1579.1,91.3,4.37,6.2,37,1843,654.1
+"East","Apartment","B","Autonomous",180.1,1938.6,80.7,7.04,22,31.3,1694,655.5
+"South","Apartment","C","Centralized",138.8,1494,86.4,7.12,25.8,25.1,1504,560.1
+"East","Townhouse","A","Autonomous",110.3,1187.3,80.4,7.46,20.6,25.3,1665,514.2
+"West","Apartment","C","Autonomous",101.1,1088.2,45.9,11.72,40.2,15.3,1365,339.3
+"North","Apartment","E","Centralized",132.1,1421.9,60,8.07,29.1,21.8,1156,476.9
+"North","Apartment","A","Heat Pump",189,2034.4,55.2,7.68,8.4,34.5,1879,608.9
+"North","Apartment","D","Centralized",115.4,1242.2,54.4,8.8,32,19.7,1720,449.7
+"East","Townhouse","E","Autonomous",187.3,2016.1,98,2.94,17.6,34.3,1859,746.2
+"East","Apartment","C","Centralized",129.7,1396.1,67.6,9.75,34.5,27.1,1812,508
+"Center","Penthouse","B","Autonomous",135.1,1454.2,73,7.44,11.5,12.9,1543,505.2
+"Center","Penthouse","B","Heat Pump",194,2088.2,65.9,8.13,14.5,38.9,1801,655.2
+"South","Townhouse","E","Autonomous",135.3,1456.4,60.6,9.28,14,21.3,1514,476
+"Center","Apartment","C","Centralized",62.8,676,58,9.85,24,18.3,1597,327.9
+"Center","Apartment","D","Centralized",118.2,1272.3,52.1,9.63,33.7,17.8,1251,445
+"West","Villa","C","Centralized",105.7,1137.7,85.9,5.3,29.6,20,1541,460.7
+"Center","Apartment","C","Autonomous",126.5,1361.6,73.1,11.23,22.2,28.9,1834,509.3
+"North","Apartment","D","Centralized",110.4,1188.3,66.6,7.92,20.7,26.6,2110,494.1
+"East","Townhouse","C","Centralized",118.9,1279.8,61.7,7.81,15.8,29.2,1041,485.7
+"East","Townhouse","C","Autonomous",166.9,1796.5,44.4,7.41,39.6,26.6,1640,485.1
+"North","Townhouse","C","Autonomous",91.1,980.6,53.4,9.75,37.5,23.5,1414,371.3
+"North","Townhouse","C","Autonomous",113.4,1220.6,40.7,15.72,23.4,13.8,1195,370.4
+"Center","Penthouse","A","Centralized",102.3,1101.1,62.2,9.82,28,35.4,1826,377.9
+"North","Townhouse","D","Autonomous",141.8,1526.3,49.8,10.12,24.5,34,2096,478
+"South","Townhouse","C","Centralized",138.9,1495.1,77.2,8.02,21.1,34.1,1602,576.8
+"West","Apartment","C","Autonomous",130.6,1405.8,83.3,2.38,23.6,35.6,1438,576.8
+"Center","Penthouse","A","Heat Pump",170,1829.9,43.5,8.96,44.8,31.9,2080,505.3
+"Center","Townhouse","C","Autonomous",117.4,1263.7,42.3,15.14,40.3,18.5,1048,386.3
+"South","Villa","C","Autonomous",188.2,2025.8,58.2,9.45,26.4,33,1765,610.8
+"North","Townhouse","B","Heat Pump",76.5,823.4,47,11.43,22.1,19.2,1314,316.8
+"Center","Penthouse","A","Autonomous",144.2,1552.2,59.4,8.57,38.3,29.9,2135,485.6
+"Center","Villa","B","Heat Pump",159.9,1721.1,72.1,8.52,26.3,31.1,1321,600.1
+"West","Townhouse","A","Heat Pump",176.6,1900.9,47.3,15.82,29.3,31.8,1723,552.2
+"West","Penthouse","B","Autonomous",78.8,848.2,52.3,11.06,25.8,22.1,1021,338.8
+"East","Penthouse","C","Autonomous",95.8,1031.2,54.2,8.8,17.2,17.9,1256,352.6
+"East","Villa","B","Heat Pump",69.3,745.9,53.8,10.29,40.7,15.5,1248,344.7
+"West","Apartment","D","Autonomous",127,1367,66.1,6.25,23.4,15.8,1649,489.9
+"South","Apartment","D","Autonomous",123.9,1333.6,53.4,7.43,36.4,23.7,1391,458.9
+"North","Penthouse","B","Autonomous",174.1,1874,75.7,8.62,30.3,36,1951,622.7
+"North","Townhouse","A","Autonomous",118,1270.1,52.8,11.5,27.3,29.4,1559,431.4
+"East","Apartment","A","Heat Pump",112.2,1207.7,54.3,11.65,22.7,23.1,1233,452
+"West","Apartment","D","Autonomous",179,1926.7,59.8,10.85,35.4,35.5,1998,623.1
+"West","Apartment","A","Centralized",110.9,1193.7,76,5.52,28,33.4,1211,517.1
+"North","Penthouse","B","Autonomous",160.9,1731.9,55.3,9.51,24.7,31.9,1621,610.4
+"South","Townhouse","E","Centralized",132.8,1429.4,50.1,13.51,38.2,17.1,1451,481.8
+"West","Villa","D","Centralized",136.7,1471.4,61.6,7.27,38.6,31.4,1537,518.7
+"North","Apartment","D","Autonomous",145,1560.8,68.8,6.74,9.8,34,1987,547.9
+"Center","Apartment","E","Autonomous",98.1,1055.9,68,5.23,27.8,24.6,1861,434.7
+"North","Apartment","C","Autonomous",88.2,949.4,59.2,10.73,38,24.8,1303,353.9
+"Center","Apartment","A","Heat Pump",128.1,1378.9,54.7,13.07,21.4,25.8,1949,462.6
+"South","Apartment","B","Autonomous",85.9,924.6,33.9,12.82,30,16.9,1560,334.5
+"West","Apartment","E","Autonomous",112.4,1209.9,84.2,7.3,13.1,29,1123,504.2
+"West","Townhouse","C","Centralized",104.8,1128.1,68.2,7.89,22.7,21.5,1502,453.9
+"West","Villa","A","Heat Pump",146.6,1578,66.8,6.94,19,24.9,1889,537.1
+"East","Apartment","A","Heat Pump",131.6,1416.5,29,17.67,22.8,23.5,1619,347.5
+"North","Villa","B","Heat Pump",67,721.2,57.1,7.19,45.6,7,1150,325.5
+"North","Villa","A","Heat Pump",134,1442.4,82.1,7.66,12.2,27.1,1157,517.3
+"Center","Townhouse","B","Heat Pump",81.6,878.3,42.4,11.78,32.6,9.1,1100,308.7
+"Center","Apartment","D","Autonomous",194.9,2097.9,76.2,8.33,20.1,29.6,2200,677.4
+"East","Apartment","B","Autonomous",89.6,964.4,35.2,12.07,36.7,22,1620,309.5
+"South","Penthouse","D","Centralized",183.1,1970.9,73.9,7.38,10.5,30.6,1860,667.5
+"South","Townhouse","C","Autonomous",98.8,1063.5,31.4,11.08,34.2,27.4,1449,365.5
+"North","Townhouse","B","Autonomous",151,1625.3,48.7,9.57,46.2,26.7,1479,476.1
+"Center","Apartment","E","Autonomous",91.1,980.6,71.4,5.82,36.3,22.8,1424,457.5
+"East","Apartment","D","Centralized",116.9,1258.3,44.7,5.27,20.3,33.2,1420,433.7
+"Center","Penthouse","C","Autonomous",144.3,1553.2,79.2,5.81,17.1,32.1,1472,572.8
+"North","Townhouse","A","Autonomous",150.4,1618.9,60.8,8.09,23.5,32,1599,532.6
+"East","Villa","D","Centralized",99.2,1067.8,51.4,4.99,29.4,21.1,1877,412.4
+"South","Townhouse","C","Centralized",69.9,752.4,54.2,11.87,33.7,16.7,1122,308.3
+"North","Apartment","A","Autonomous",77,828.8,70.5,5.13,25,19.3,1336,401.8
+"Center","Penthouse","A","Centralized",130.7,1406.8,60.6,7.43,30.5,25,1737,448.8
+"Center","Penthouse","A","Heat Pump",133.9,1441.3,51.6,12.26,22,24.8,1189,445.6
+"Center","Apartment","D","Autonomous",122.1,1314.3,82.7,7.06,22.1,26,1460,500.4
+"East","Apartment","D","Autonomous",143.7,1546.8,70.9,11.54,25.5,28.6,1629,526.9
+"Center","Apartment","A","Heat Pump",114.1,1228.2,45.2,12.83,30.3,17.9,1201,387.1
+"South","Villa","B","Heat Pump",132.2,1423,83,6.15,30.1,20.4,1247,545.2
+"South","Apartment","C","Centralized",174.2,1875.1,67.2,7.76,15.8,35.4,2257,623.5
+"East","Apartment","C","Autonomous",110.5,1189.4,22.4,18.4,29.8,20.3,2230,347.8
+"East","Apartment","A","Autonomous",151.7,1632.9,63.5,7.28,25.9,30.1,1915,542.7
+"East","Penthouse","E","Centralized",200.9,2162.5,51.9,10.45,18.8,38.4,1582,577
+"Center","Penthouse","C","Autonomous",84.3,907.4,51.8,10.85,36,24.8,1413,345.6
+"East","Penthouse","A","Autonomous",137.3,1477.9,47.4,10.55,18,21.3,1529,478.1
+"North","Townhouse","B","Autonomous",120.4,1296,20.2,15.37,32,18.6,1353,320.3
+"East","Villa","B","Autonomous",171.6,1847.1,65.1,10.67,8.7,37.3,1761,612.9
+"North","Apartment","C","Autonomous",116.8,1257.2,80.1,6.93,39.4,22,1815,487.2
+"West","Apartment","B","Autonomous",143.1,1540.3,40.4,12.19,33.6,18,1372,453.3
+"North","Apartment","D","Autonomous",141.8,1526.3,67.3,2.49,22.1,19.7,1532,550.5
+"North","Villa","B","Autonomous",117.9,1269.1,79,4.99,16.2,23.7,1531,507.8
+"East","Townhouse","A","Centralized",112.1,1206.6,37.6,12.3,28.7,14.9,1439,369.9
+"North","Apartment","D","Autonomous",197.7,2128,98,2.76,1,41.4,1314,782.2
+"Center","Apartment","E","Centralized",86.1,926.8,45.2,14.33,32,10.6,1503,299.7
+"Center","Apartment","D","Autonomous",105,1130.2,57.5,11.26,23.3,25.2,1539,403.4
+"South","Apartment","D","Autonomous",133.9,1441.3,61.8,8.4,30,23.1,1593,459.9
+"South","Townhouse","C","Centralized",124.6,1341.2,83.9,7.37,15.6,27.7,1570,533.6
+"North","Apartment","B","Centralized",81.7,879.4,34,11.34,36.2,19.3,1267,328.7
+"North","Apartment","C","Autonomous",120.6,1298.1,52.8,12.59,30.2,25.5,1456,408.7
+"Center","Apartment","A","Heat Pump",80.5,866.5,35.3,14.74,48.9,9.6,1543,288.5
+"Center","Apartment","C","Autonomous",160,1722.2,71,5.82,25,27.6,1564,613.6
+"East","Villa","D","Centralized",74.9,806.2,61.4,4.43,34.6,20.1,1339,365.8
+"North","Townhouse","D","Autonomous",99.5,1071,57.8,12.51,34.3,18.4,1171,382.7
+"Center","Apartment","E","Heat Pump",129.4,1392.8,56.5,10.8,22.6,14.9,1514,474.8
+"North","Villa","D","Autonomous",74.3,799.8,45.3,10.74,27.9,11.1,925,293.8
+"South","Townhouse","A","Centralized",126.5,1361.6,67.2,7.62,23.5,28.5,2336,460.3
+"East","Villa","A","Centralized",105,1130.2,33.4,15.64,21.8,17.2,1155,381.8
+"South","Apartment","B","Autonomous",105.7,1137.7,81.5,9.16,29,16.6,1528,479
+"Center","Penthouse","B","Centralized",66.3,713.6,43.1,13.2,33.3,13.1,1711,277.1
+"West","Apartment","E","Autonomous",42,452.1,47.4,9.1,33,5,1349,202.1
+"North","Apartment","E","Autonomous",176.2,1896.6,55.4,12.29,27.4,34.5,1771,558.4
+"Center","Apartment","E","Autonomous",168.4,1812.6,54.4,10.22,32.8,43.4,1771,598.9
+"West","Villa","B","Autonomous",154.2,1659.8,59.7,10.13,20.3,32.3,1694,539
+"East","Townhouse","C","Centralized",123,1324,60.7,8.62,15.8,24.2,1453,479.3
+"North","Townhouse","E","Autonomous",139.5,1501.6,47.7,11.06,33.6,24,1156,480.3
+"East","Villa","B","Heat Pump",126,1356.3,43.8,14.96,19.2,26.5,1548,395.3
+"West","Penthouse","A","Heat Pump",117.6,1265.8,76.6,6.91,22.7,22.8,1285,523.3
+"North","Townhouse","E","Autonomous",151.7,1632.9,91.8,6.14,18.3,24.1,1153,626.3
+"North","Apartment","D","Autonomous",151.4,1629.7,72.2,7.13,7.3,33.2,1610,587.8
+"South","Townhouse","E","Autonomous",151.4,1629.7,63.7,11.04,21.7,20.8,1466,545.4
+"North","Apartment","B","Autonomous",163.4,1758.8,68.5,5.88,31.9,28.9,1507,588.1
+"South","Penthouse","A","Centralized",113.4,1220.6,62.3,9.46,32,21.5,1379,449.9
+"North","Townhouse","C","Centralized",124.9,1344.4,30.2,15.73,36.8,23.3,1185,375.3
+"West","Apartment","A","Autonomous",124.9,1344.4,76.2,7.99,23.8,28.9,1215,477.4
+"North","Villa","E","Centralized",77.6,835.3,53.1,10.99,34.7,10,1127,329
+"East","Apartment","D","Heat Pump",117.1,1260.5,67.8,8.49,23.2,14.5,1194,495.5
+"South","Apartment","C","Autonomous",107.6,1158.2,76.8,7.27,33.7,23.1,1767,487.3
+"South","Apartment","C","Autonomous",149.1,1604.9,64.4,12.43,24.2,31.5,1318,524.5
+"North","Villa","B","Autonomous",166.1,1787.9,70.8,5.89,35.5,25.5,1523,643.6
+"South","Townhouse","E","Centralized",155.6,1674.9,50.6,11.54,9.3,32.5,1716,512.6
+"East","Apartment","E","Centralized",87.7,944,71.4,9.68,20.2,19.1,1371,396.6
+"Center","Penthouse","B","Heat Pump",129.1,1389.6,68.3,3.66,21.8,32.7,1914,502.6
+"East","Apartment","C","Centralized",97.4,1048.4,63,8.51,42.4,26.1,1398,479.8
+"Center","Penthouse","C","Centralized",149.8,1612.4,71.9,7.35,13.2,28.8,1668,552.3
+"South","Apartment","E","Autonomous",120.1,1292.7,68.2,10.47,29.4,19.7,1557,434
+"North","Townhouse","E","Autonomous",91.7,987,64.1,7.17,22,15.2,1214,430.5
+"North","Townhouse","B","Autonomous",126.3,1359.5,68,8.37,18,17.8,1970,488
+"North","Apartment","E","Centralized",101.4,1091.5,56.2,7.56,37.4,22.6,1199,426.7
+"West","Apartment","C","Centralized",177.7,1912.7,56.5,9.52,24.4,30.3,1533,582.1
+"North","Villa","B","Heat Pump",77.4,833.1,53.8,9.92,19.9,15.9,1147,352.8
+"Center","Apartment","A","Heat Pump",139.7,1503.7,63.2,4.76,24.2,37,1630,555.5
+"East","Villa","B","Centralized",156.1,1680.2,65,12.21,28.4,30.3,1878,536.9
+"Center","Apartment","E","Autonomous",117.3,1262.6,30.1,13.53,27.6,21.6,1480,348.9
+"West","Apartment","C","Centralized",152.4,1640.4,80.6,6.73,19.8,22.8,1325,592.6
+"North","Townhouse","B","Autonomous",100,1076.4,54.2,7.68,38.3,26.3,1607,426.5
+"Center","Penthouse","A","Heat Pump",70.5,758.9,44.2,11.08,29.6,13,1770,312.2
+"Center","Apartment","C","Centralized",49.7,535,44.1,10,10.1,7.8,1287,216.7
+"North","Villa","C","Autonomous",89.3,961.2,63.3,6.9,33.9,18.8,1094,395.8
+"Center","Apartment","C","Centralized",117.7,1266.9,83.6,2.14,13.7,36.3,1850,537.5
+"South","Villa","B","Heat Pump",129.2,1390.7,78.6,7.81,22.6,25,1201,537.5
+"North","Townhouse","E","Centralized",94.6,1018.3,52.4,12.79,35.6,20.9,1365,382.3
+"West","Townhouse","A","Heat Pump",113.2,1218.5,94.9,3.61,1,23.1,1428,557.9
+"West","Townhouse","E","Centralized",74,796.5,81,8.15,42,15.2,1331,389.4
+"West","Apartment","E","Centralized",163.9,1764.2,72.8,4.68,38.8,35.5,1844,585.7
+"North","Villa","A","Autonomous",92.7,997.8,56.5,7.04,19.6,22.7,1197,446.3
+"North","Villa","B","Autonomous",134.6,1448.8,53.7,10.57,36.2,23.5,974,487.5
+"North","Villa","A","Heat Pump",125.6,1351.9,73.8,7.04,46.4,32,1799,525.1
+"Center","Apartment","D","Autonomous",101,1087.2,64.9,6.32,16.7,19.1,1279,397.6
+"South","Penthouse","E","Centralized",191.8,2064.5,55.2,6.94,29.5,31.3,1684,592.6
+"West","Townhouse","B","Autonomous",143.5,1544.6,75.3,7.37,15.2,23.8,1491,550.4
+"South","Townhouse","D","Autonomous",134,1442.4,47,11.03,22.8,27.8,2031,430.3
+"South","Penthouse","B","Autonomous",127.7,1374.6,75.1,3.59,16.8,30.1,1395,514.6
+"North","Penthouse","A","Heat Pump",159.9,1721.1,60.3,10.2,22.5,30.2,1499,530.8
+"West","Apartment","C","Centralized",133,1431.6,33.9,12.45,44.1,34.6,1523,420.5
+"Center","Apartment","D","Heat Pump",212.9,2291.6,64,11.88,31.5,34.6,1665,685.3
+"Center","Villa","C","Autonomous",120,1291.7,65,6.69,35.6,17.4,1431,473.1
+"South","Apartment","A","Heat Pump",175.3,1886.9,79.8,6.94,23.8,26.5,1729,680.7
+"East","Villa","C","Centralized",98.5,1060.2,39.7,15.1,41.3,7.3,1195,329.6
+"North","Apartment","E","Autonomous",94.4,1016.1,60.3,8.69,25.6,15.2,1569,383.8
+"South","Apartment","B","Centralized",132.4,1425.1,54.2,10.48,23.2,31,1641,483.1
+"West","Apartment","C","Autonomous",114.2,1229.2,54.9,8.56,22,23.3,1343,457
+"West","Apartment","C","Autonomous",140.5,1512.3,40,12.67,21.2,28.8,1570,399.1
+"North","Townhouse","A","Heat Pump",149.2,1606,42.5,12.92,36.7,19.5,1389,427.7
+"East","Apartment","C","Centralized",92.3,993.5,63.5,9.58,23.1,23.7,1493,388.8
+"North","Apartment","E","Autonomous",131,1410.1,49.7,11.74,18.8,20.5,1550,463.7
+"North","Apartment","C","Autonomous",140,1506.9,46.7,8.74,40.9,23.6,1582,462.8
+"East","Villa","C","Autonomous",141.5,1523.1,69.1,3.84,36.6,26.5,1412,531.8
+"Center","Penthouse","B","Autonomous",81.7,879.4,47.8,12.08,39.7,22.7,1483,337
+"East","Townhouse","D","Centralized",88.7,954.8,65.8,11.04,26.9,18.2,1631,412.3
+"South","Apartment","A","Autonomous",105.1,1131.3,76.9,8.14,10.5,20.1,1536,420.5
+"South","Villa","A","Autonomous",123.6,1330.4,62.1,8.36,31.9,25.2,1579,484.8
+"North","Townhouse","B","Autonomous",173.1,1863.2,61.9,6.21,22.5,33.8,1960,586.4
+"Center","Apartment","B","Heat Pump",122.8,1321.8,48.4,10.12,24.2,9,1369,420.4
+"North","Townhouse","B","Heat Pump",170.9,1839.6,43.2,10.97,25.6,26.9,1809,520.3
+"West","Penthouse","E","Heat Pump",105.1,1131.3,35.9,15.6,28.5,17.5,1684,404.5
+"North","Townhouse","C","Centralized",107.1,1152.8,55.8,7.68,35,31.9,964,423.2
+"North","Townhouse","B","Autonomous",131.9,1419.8,40.2,15.12,21.4,18.4,1634,379.8
+"Center","Apartment","C","Heat Pump",117.7,1266.9,69.5,8.46,36.1,18.6,1565,435.1
+"East","Townhouse","B","Heat Pump",141.1,1518.8,38.6,9.78,26.6,22.9,1682,456.6
+"West","Penthouse","A","Centralized",150.4,1618.9,68.4,9.26,28.8,18.4,1347,508.5
+"Center","Apartment","A","Centralized",146.3,1574.8,78.8,4.11,12.6,34.3,2136,596.2
+"Center","Apartment","C","Centralized",134.3,1445.6,71.6,9,27.9,37.9,2157,522.5
+"South","Villa","E","Autonomous",87.5,941.8,59.7,11.57,17.1,24.4,1116,398.5
+"South","Apartment","D","Autonomous",103,1108.7,64.3,8.66,17.4,18.6,1464,480.3
+"North","Townhouse","E","Autonomous",106.2,1143.1,40.7,13.25,43.9,21.9,1389,334.1
+"South","Villa","A","Centralized",152.7,1643.6,58.7,10.69,4.2,32.2,1625,493.6
+"West","Apartment","E","Centralized",81.9,881.6,59.9,12.11,36.7,21.6,1207,354.4
+"Center","Penthouse","C","Centralized",93.1,1002.1,26.6,19.74,37.2,22,1701,305.3
+"East","Townhouse","A","Heat Pump",128.2,1379.9,92.7,2.77,7.7,24.7,2002,597.7
+"West","Townhouse","D","Centralized",138.9,1495.1,63.8,6.46,17.8,23,1541,505.7
+"North","Townhouse","C","Autonomous",148.7,1600.6,74,9.74,23.8,29.5,1907,561.5
+"North","Villa","B","Centralized",180.1,1938.6,68.1,8.68,20.4,35.4,1893,640.4
+"North","Villa","D","Centralized",49.9,537.1,59.8,7.68,34.1,5.1,1036,266.4
+"Center","Apartment","C","Autonomous",137.1,1475.7,92.2,5.35,22.2,32.3,1603,579.6
+"West","Townhouse","B","Heat Pump",122,1313.2,58.8,12.8,45.3,28.1,1680,436.7
+"Center","Townhouse","A","Heat Pump",79.9,860,65.9,7.86,23.3,14,1387,372.6
+"East","Townhouse","E","Centralized",116.9,1258.3,56.2,8.68,30.3,23,2097,480.8
+"East","Townhouse","B","Heat Pump",141.7,1525.2,63.5,9.19,22.2,27.3,1659,512.8
+"North","Penthouse","B","Autonomous",148,1593.1,73.5,6.8,9.4,30.6,1397,548.6
+"West","Villa","A","Autonomous",146.7,1579.1,71.2,11.94,29.6,31,1463,515.3
+"South","Penthouse","D","Centralized",143.1,1540.3,53.8,9.87,11.3,23.5,1571,505.6
+"East","Apartment","B","Heat Pump",89.5,963.4,44.9,10.29,38.8,18.7,1231,374.6
+"North","Townhouse","C","Centralized",144.1,1551.1,62.1,11.34,29,18.4,1248,505.3
+"West","Apartment","C","Autonomous",122.1,1314.3,49.5,11.66,32.9,21.9,1556,423.3
+"North","Townhouse","E","Centralized",112.4,1209.9,43,11.2,20,28.8,1839,367.3
+"East","Apartment","D","Centralized",141.8,1526.3,65.6,8.64,20,30.4,974,529.1
+"South","Apartment","D","Centralized",125.5,1350.9,66.9,10.26,16.8,23,1658,468.1
+"Center","Apartment","C","Centralized",159.2,1713.6,41.2,11.95,36.7,22.9,1912,480.1
+"South","Villa","A","Centralized",136.7,1471.4,50.5,9.7,14.5,26.3,1764,467
+"South","Penthouse","C","Centralized",83.2,895.6,64.5,5.24,35.5,13.7,1126,387.9
+"North","Apartment","E","Autonomous",130,1399.3,65.7,9.11,26.4,24.7,1251,495.1
+"West","Apartment","C","Autonomous",79.8,859,64.7,8.09,37.5,9.6,1647,372.8
+"South","Townhouse","C","Centralized",99,1065.6,38.9,11.08,31.9,14.4,1699,347.7
+"North","Townhouse","B","Autonomous",142.7,1536,84.6,3.71,26.6,20.2,1055,593.3
+"East","Villa","B","Heat Pump",82.1,883.7,63.2,5.72,26.3,16.8,937,388.5
+"South","Villa","A","Heat Pump",100.6,1082.8,55.5,6.33,20.2,16,1266,391.6
+"North","Townhouse","E","Centralized",130.5,1404.7,85,6.06,4.4,37.4,1182,582.4
+"Center","Penthouse","B","Heat Pump",118.6,1276.6,58.7,12.28,41.2,24.2,2025,427.1
+"South","Villa","A","Heat Pump",98.8,1063.5,78,5.01,33.2,17.5,1754,465.8
+"East","Townhouse","D","Centralized",159.2,1713.6,64.1,10.5,9.4,33.6,1742,572.3
+"Center","Villa","A","Heat Pump",144.8,1558.6,59.2,14.75,37.2,26.8,1738,484.2
+"East","Penthouse","A","Centralized",115.6,1244.3,62.4,6.58,20.6,22.6,1421,453.8
+"West","Penthouse","B","Autonomous",139.3,1499.4,74.4,5.49,25,25.9,1430,552.5
+"South","Townhouse","A","Heat Pump",115.2,1240,49.5,10.23,26.5,17.2,1414,382.3
+"Center","Townhouse","E","Autonomous",122.6,1319.7,60,11.58,43.3,18,2122,428.9
+"West","Penthouse","A","Heat Pump",139.8,1504.8,54.6,6.6,34.5,28.6,1340,505.5
+"East","Penthouse","C","Autonomous",125,1345.5,27.8,11.75,41.5,19.1,1903,386.8
+"North","Townhouse","B","Heat Pump",108.3,1165.7,53.6,9.16,23,26.5,1889,433.9
+"North","Apartment","C","Centralized",146.5,1576.9,50.5,12.03,21.7,39,1746,497.5
+"East","Apartment","E","Centralized",115.5,1243.2,74.5,6.28,26.9,23.6,1551,483.5
+"East","Apartment","B","Autonomous",147.8,1590.9,33.7,12.45,26.1,27.8,1553,406.5
+"North","Apartment","C","Autonomous",132.6,1427.3,49.7,11.98,20.9,29.4,1211,461.9
+"West","Penthouse","C","Autonomous",105.2,1132.4,46.6,7.54,27.1,21.8,1682,412.5
+"East","Townhouse","E","Autonomous",134.9,1452.1,47,9.91,20.2,16.6,1643,453.8
+"West","Villa","B","Heat Pump",110.9,1193.7,63.6,6.59,28.4,27.3,1663,434.4
+"South","Apartment","C","Autonomous",143.2,1541.4,65.3,7.16,21.3,24.8,2075,525.1
+"Center","Penthouse","B","Autonomous",146.7,1579.1,47.4,10.55,24.2,24.1,1557,451.2
+"West","Townhouse","A","Centralized",81.3,875.1,73.6,5.39,11.4,14,1363,387
+"East","Villa","A","Heat Pump",184.2,1982.7,38.3,12.85,43.6,29.4,1936,513.8
+"South","Penthouse","D","Autonomous",49.4,531.7,85.2,6.3,21.9,11.6,1365,291.7
+"East","Villa","B","Heat Pump",147.6,1588.8,70.9,7.36,21.1,32.4,1728,569.6
+"North","Townhouse","E","Autonomous",98.1,1055.9,50.2,10.12,40.4,23,1460,348.1
+"South","Penthouse","A","Heat Pump",152.6,1642.6,50.3,8.36,18.6,28.3,1498,504
+"North","Townhouse","B","Heat Pump",139.8,1504.8,46.6,13.18,22.6,22.5,1346,439.9
+"East","Apartment","E","Heat Pump",182,1959,78.5,7.28,26.1,35.2,2079,636.4
+"East","Apartment","D","Heat Pump",102.5,1103.3,85.4,6.67,29.9,26.2,1306,495.9
+"North","Apartment","C","Autonomous",43.7,470.4,45.1,12.54,20,13,1194,245.3
+"South","Apartment","E","Autonomous",117.8,1268,72.8,7.2,23.6,28,1253,504.1
+"South","Apartment","E","Centralized",124.4,1339,63.5,6.97,26.5,25.1,1669,481.3
+"Center","Apartment","C","Centralized",170,1829.9,55.7,12.92,26.6,32.4,2297,561.5
+"North","Apartment","A","Autonomous",87.9,946.1,75.7,5.12,33.3,15.8,982,446.5
+"Center","Penthouse","C","Centralized",112.2,1207.7,81.2,5.89,12.1,30.7,1709,503.4
+"South","Townhouse","D","Centralized",125.5,1350.9,42.6,10.9,28.1,24.4,1228,438.9
+"Center","Penthouse","A","Heat Pump",179.5,1932.1,76.5,3.25,7.5,43,2149,726.9
+"West","Penthouse","E","Heat Pump",66.2,712.6,86.5,7.24,23.6,11,1233,387.3
+"Center","Apartment","C","Autonomous",139,1496.2,58.7,8.24,14.1,38.3,1325,526
+"East","Apartment","C","Autonomous",162.1,1744.8,55.9,11.1,23.1,27.3,1511,539.4
+"North","Townhouse","B","Heat Pump",145.6,1567.2,76.9,4.02,25.9,21.5,1477,561.4
+"Center","Penthouse","A","Heat Pump",145.7,1568.3,84.4,4,23.7,30.4,1712,582.5
+"North","Townhouse","A","Centralized",126.5,1361.6,53.8,10.38,24.8,17.7,1607,428.5
+"Center","Villa","A","Autonomous",92.8,998.9,61.7,6.57,26.4,22.4,1023,401
+"Center","Apartment","D","Centralized",90.9,978.4,79,6.47,21,22.2,1258,421.5
+"North","Apartment","D","Autonomous",60.9,655.5,57.8,6.15,28.5,18,1123,339.4
+"West","Townhouse","E","Centralized",182.1,1960.1,52,8.91,23.4,32.1,2070,565.4
+"North","Villa","A","Heat Pump",167,1797.6,54.6,10.7,11.9,38,1269,530.6
+"West","Townhouse","B","Heat Pump",173.4,1866.5,46.2,9.23,14.7,26.7,1542,519.5
+"East","Apartment","B","Heat Pump",136.2,1466,32.4,11.07,28.1,27.6,1186,416.2
+"South","Penthouse","A","Heat Pump",109.9,1183,66,5.82,10.5,31.8,1842,466
+"West","Penthouse","B","Autonomous",79,850.3,57.9,10.52,36.1,18.4,1040,325
+"South","Apartment","E","Centralized",98.1,1055.9,41.2,13.94,20.7,21.1,2075,304.5
+"South","Villa","A","Heat Pump",104.4,1123.8,60.3,6.37,25.6,20.4,1657,432.2
+"West","Penthouse","B","Heat Pump",84.9,913.9,51.8,13.21,30.6,14.7,1790,367.2
+"North","Townhouse","A","Heat Pump",126.5,1361.6,39.2,11.28,46.8,25.1,1189,457.2
+"South","Villa","C","Autonomous",107.4,1156,50.1,12.01,21.3,16.5,1421,352.3
+"Center","Apartment","A","Heat Pump",140.5,1512.3,47.9,11.14,17.9,38.9,2224,462.5
+"Center","Apartment","A","Autonomous",126,1356.3,53.7,10.19,42,20.4,1563,460.3
+"Center","Apartment","C","Autonomous",199.6,2148.5,71.4,5.07,3,34,1772,702.1
+"North","Townhouse","E","Centralized",193.4,2081.7,69.2,7.03,12.5,36.8,1824,665.2
+"Center","Apartment","C","Autonomous",176.5,1899.8,65.8,8.37,29.2,38,1960,625.2
+"North","Apartment","D","Autonomous",113.2,1218.5,49.9,11.95,28.9,22.2,1137,424.2
+"Center","Apartment","E","Centralized",150.2,1616.7,68.5,8.28,23.9,35.7,1889,568.8
+"East","Apartment","C","Heat Pump",70.4,757.8,44,10.1,44.1,21.9,913,296.4
+"Center","Townhouse","A","Heat Pump",70.7,761,58.5,8.01,31.5,22.5,1163,385.9
+"North","Apartment","C","Autonomous",113.4,1220.6,54.8,9.86,16.6,23.3,1390,432.6
+"East","Apartment","A","Autonomous",184.9,1990.2,58.7,9.43,24.7,29.8,1905,665.7
+"West","Apartment","C","Heat Pump",109,1173.3,63.3,8.7,17.6,26,1781,447.2
+"West","Apartment","C","Heat Pump",162.2,1745.9,73.6,9.3,28.3,28,1959,604.1
+"North","Apartment","D","Centralized",136,1463.9,25.4,17.31,34,17.1,1463,371.9
+"North","Apartment","C","Heat Pump",121.2,1304.6,34.6,15.52,33.8,26.3,1083,369.5
+"Center","Apartment","C","Autonomous",142.2,1530.6,85.7,2.97,2.1,19.8,2030,624.2
+"West","Townhouse","D","Centralized",122.2,1315.3,63.5,8.45,30.4,37,1139,493.9
+"South","Apartment","B","Autonomous",186.1,2003.2,90.9,5.31,20.3,32.9,2070,707.3
+"West","Apartment","A","Heat Pump",94.8,1020.4,78.1,7.42,11.3,19.5,1203,422.9
+"South","Villa","D","Centralized",130.4,1403.6,59.5,11.06,19.7,36.4,1510,457.9
+"North","Villa","A","Autonomous",118.4,1274.4,52.5,12.81,25.9,26.5,2101,400.4
+"South","Villa","A","Heat Pump",122.7,1320.7,37.6,12.83,36.5,21.8,1559,395.8
+"Center","Penthouse","C","Heat Pump",118.1,1271.2,22.6,14.71,22.7,13.3,1554,317.5
+"East","Villa","A","Heat Pump",153.1,1648,82.7,1.93,7.8,27,2085,643.2
+"East","Villa","C","Autonomous",73.9,795.5,55.1,9.42,33.5,17.9,1146,336.7
+"Center","Penthouse","A","Heat Pump",139.4,1500.5,78,6.59,21.3,32,1641,574.2
+"South","Townhouse","A","Centralized",64.7,696.4,47.3,10.27,29.3,6.7,1443,285.4
+"Center","Apartment","E","Autonomous",161.8,1741.6,85.9,5.18,20,37.4,1926,613.8
+"West","Villa","B","Autonomous",159.8,1720.1,62.6,7.66,21.1,27.5,1462,566.7
+"South","Penthouse","B","Autonomous",126.1,1357.3,52.3,6.7,9.3,24.9,1390,469.5
+"East","Apartment","C","Autonomous",54.1,582.3,50.3,9.14,22.8,13.5,960,319.1
+"Center","Apartment","C","Centralized",100.6,1082.8,55.6,6.06,30.7,20.5,1681,405.9
+"North","Villa","A","Heat Pump",115.9,1247.5,73.3,10.06,14.7,18.1,1339,448
+"West","Apartment","D","Autonomous",156.4,1683.5,33.8,16.18,44.8,29.8,2027,408.1
+"East","Townhouse","B","Autonomous",84.3,907.4,38.1,10.34,45.7,22.9,1440,353.6
+"North","Townhouse","C","Autonomous",56.1,603.9,29.7,11.39,21.4,19,1026,260
+"North","Villa","E","Centralized",123.7,1331.5,44.7,10.98,36.9,14.1,1606,402.1
+"West","Townhouse","B","Autonomous",127,1367,29.4,12.37,30.8,17.3,1485,376.3
+"Center","Townhouse","E","Centralized",90.3,972,56.2,5.26,27.3,26.2,1393,381.4
+"South","Apartment","E","Heat Pump",123.1,1325,NA,4.24,32,23.7,1608,528.4
+"West","Villa","A","Autonomous",150.4,1618.9,27.2,NA,31.5,25,1510,391.6
+"North","Apartment","B","Heat Pump",108.9,1172.2,45.5,11.7,27.3,30.7,1278,NA
+"East","Townhouse","D","Autonomous",142.8,1537.1,28.9,11.16,25.8,20.9,1429,374.2
+"North","Penthouse","B","Autonomous",164.1,1766.4,84.1,6.86,21,40.6,1432,632.8
+"South","Villa","A","Autonomous",149.7,1611.4,50.9,12.73,26.6,28.5,1656,494.3
+"North","Villa","B","Heat Pump",81.3,875.1,49.3,9.94,44,14.3,1253,345.8
+"East","Townhouse","B","Centralized",164.9,1775,50.4,11.52,36.2,29.3,1516,536.6
+"North","Apartment","A","Autonomous",92.7,997.8,52.3,12.75,34.2,10.5,836,340.5
