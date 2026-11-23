@@ -2,6 +2,6 @@
 #  It is a void function (no return value)
 #It prints something on display
 def my_function():
-    print('Successfully imported (nested)!')
+    print('Successfully imported!')
 
 my_function()

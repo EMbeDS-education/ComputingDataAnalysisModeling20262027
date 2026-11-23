@@ -9,3 +9,5 @@ BPM_PM/jupyter/jupyterNotebooks/covid_lastday_b.csv
 BPM_PM/jupyter/jupyterNotebooks/covid_more_than_10k.csv
 BPM_PM/jupyter/jupyterNotebooks/covid_more_than_25k.csv
 PDAI/jupyter/jupyterNotebooks/images/~$meme_students.pptx
+PDAI/jupyter/jupyterNotebooks/__pycache__/test_import_py.cpython-314.pyc
+PDAI/jupyter/jupyterNotebooks/otherpath/__pycache__/test_import_py_nested.cpython-314.pyc
